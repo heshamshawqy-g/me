@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Your Name</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Three.js CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+</head>
+<body>
+    <!-- Main Container -->
+    <div class="container">
+        
+        <!-- Left Panel: Navigation & Projects -->
+        <aside class="left-panel">
+            <!-- Navigation -->
+            <nav class="navigation">
+                <a href="#work" class="nav-link active">Work</a>
+                <a href="#about" class="nav-link">About</a>
+                <a href="#contact" class="nav-link">Contact</a>
+            </nav>
+
+            <!-- Project List -->
+            <div class="project-list" id="projectList">
+                <!-- Projects will be dynamically loaded here -->
+            </div>
+        </aside>
+
+        <!-- Right Panel: Content Area -->
+        <main class="right-panel">
+            <!-- Animated Landing Background -->
+            <div class="landing-animation" id="landingAnimation">
+                <!-- Three.js canvas will be inserted here -->
+            </div>
+
+            <!-- Landing Typography Overlay -->
+            <div class="landing-content" id="landingContent">
+                <div class="landing-text">
+                    <h1 class="landing-title">Design systems, computation, and spatial intelligence</h1>
+                    <p class="landing-subtitle">
+                        A growing collection of computational sketches and spatial experiments, 
+                        lines of code tracing space, uncovering new forms shaped by data, design, and curiosity.
+                    </p>
+                    <p class="landing-credit">Computational Design Portfolio · Hesham Shawqy</p>
+                </div>
+            </div>
+
+            <!-- Default state -->
+            <div class="content-placeholder" id="contentPlaceholder">
+                <p>Select a project to view details</p>
+            </div>
+
+            <!-- Full Content View -->
+            <div class="content-view" id="contentView">
+                <!-- Full blog-style content will be loaded here -->
+            </div>
+        </main>
+
+    </div>
+
+    <!-- JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>
+
