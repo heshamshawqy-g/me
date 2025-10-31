@@ -1,0 +1,87 @@
+{
+    "id": 6,
+    "title": "Widok",
+    "year": 2020,
+    "description": "Genetic optimization and minimal surfaces explorations @IAAC",
+    "timestamp": "Nov '22",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949451/image_u3ju4h.png",
+    "content": {
+        "paragraphs": [
+            "",
+            "The purpose of the project “WIDOK” is to create a new elevated pedestrian framework that can define new relationships between the existing historic buildings and the landscape in Krakow. Currently, the urban fabric is fragmented into different systems that have no clear combination in between; some of these systems include the historic city center and existing open space.  The disconnection of these elements generates a fragmented city that lacks urban character, particularly in the public domain. To reduce this fragmentation, cultural activities can be implemented into the existing fabric, creating new landmarks that function as a link between art, nature, history, and the city.In this project, we are seeking to transform an existing abandoned park into an active and playful place, where people can enjoy multiple outdoor activities, interact with nature, and observe the historical peaks inside Krakow. An empty park in front of the Vistula River and in the middle of Krakow’s historic areas was selected to be transformed into “Widok Park”.",
+            "The final geometry optimization is concerned with the experience of the people visiting the highest level of the structure. The optimal rotation of the top-level floors is going to be defined, allowing the longest edge of the platform to be facing the previously identified landmarks in the neighborhood of the site. The outcomes of this step were considered together with the previous structural and environmental analysis to establish the final geometry.",
+            "In the early stages of the designed process, we explored Minimal surfaces. In mathematics, a minimal surface is a surface that locally minimizes its area. This is equivalent to having zero mean curvature. The purpose of using minimal surface is to have continuous and well structural performing geometries.",
+            "This project establishes a new computation design process based on the following steps: Creating an initial grid that defines where the structure can grow vertically - Stacking low poly geometries with a different number of vertical elements on top of each other - Forming minimal surfaces platforms based on soap film experiment - Establishing structural analysis to create a feedback phase inside the design loop - Establishing environmental analysis to create a feedback phase inside the design loop - Vertical elements clustering - View optimization to control platforms height and orientation - Module details",
+            "Widok is a project of IAAC, Institute for Advanced Architecture of Catalonia developed in the Master In Advanced Computation For Architecture & Design  2020/21 by students: Felipe Romero, Aleksandra Jastrz?bska, Hesham Shawqy Lead Faculty:  Rodrigo Aguire, Faculty Assistant: Oana Taut"
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949451/image_u3ju4h.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949613/2025-10-31_22_26_06-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_p9rfqc.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949458/2025-10-31_22_06_32-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_yk56gd.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949461/2025-10-31_22_06_04-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_gpox75.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949462/2025-10-31_22_05_34-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_z8ffgh.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949465/2025-10-31_22_10_09-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_t9nqzl.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949467/2025-10-31_22_10_51-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_ponqjy.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949456/2025-10-31_22_09_13-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_yawqro.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-4"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949441/Panels2_xhccqg.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-4"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949441/Panels_suppst.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-4"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949451/image_2_m9wiud.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-4"
+            }
+        ]
+    }
+}
+

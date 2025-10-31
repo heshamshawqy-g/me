@@ -185,17 +185,50 @@ function hideLandingAnimation() {
 // PROJECT DATA - Loaded from JSON
 // ============================================
 let projects = [];
+let projectCache = {}; // Cache loaded project data
 
-// Load projects from external JSON file
+// Load projects index (simple array of file paths)
 async function loadProjects() {
     try {
-        const response = await fetch('projects.json');
+        const response = await fetch('projects/index.json');
         if (!response.ok) {
             throw new Error('Failed to load projects');
         }
-        projects = await response.json();
-        // Sort projects by id in ascending order
-        projects.sort((a, b) => a.id - b.id);
+        const projectFiles = await response.json();
+        
+        // Load basic info from each project file
+        const projectPromises = projectFiles.map(async (filePath) => {
+            try {
+                const response = await fetch(filePath);
+                if (!response.ok) {
+                    throw new Error(`Failed to load ${filePath}`);
+                }
+                const projectData = await response.json();
+                
+                // Cache the full project data
+                projectCache[projectData.id] = projectData;
+                
+                // Return basic info for the list
+                return {
+                    id: projectData.id,
+                    title: projectData.title,
+                    year: projectData.year,
+                    description: projectData.description,
+                    timestamp: projectData.timestamp,
+                    previewImage: projectData.previewImage
+                };
+            } catch (error) {
+                console.error(`Error loading ${filePath}:`, error);
+                return null;
+            }
+        });
+        
+        // Wait for all projects to load
+        const loadedProjects = await Promise.all(projectPromises);
+        
+        // Filter out any failed loads (keep order from index.json)
+        projects = loadedProjects.filter(p => p !== null);
+        
         renderProjects();
     } catch (error) {
         console.error('Error loading projects:', error);
@@ -203,6 +236,11 @@ async function loadProjects() {
         projects = [];
         renderProjects();
     }
+}
+
+// Get project content (from cache since it was loaded with basic info)
+function getProjectContent(projectId) {
+    return projectCache[projectId] || null;
 }
 // ============================================
 // DOM ELEMENTS
@@ -257,6 +295,14 @@ function handleProjectClick(project, element) {
     contentPlaceholder.classList.add('hidden');
     contentPlaceholder.classList.remove('visible');
     
+    // Get project content from cache
+    const projectData = getProjectContent(project.id);
+    
+    if (!projectData) {
+        console.error('Failed to load project content');
+        return;
+    }
+    
     // If content is already showing, fade out first then show new content
     if (contentView.classList.contains('active')) {
         // Fade out current content
@@ -264,7 +310,7 @@ function handleProjectClick(project, element) {
         
         setTimeout(() => {
             // Load new content
-            showFullContent(project);
+            showFullContent(projectData);
             
             // Ensure it's visible and fade back in
             contentView.classList.add('active');
@@ -274,7 +320,7 @@ function handleProjectClick(project, element) {
         }, 300);
     } else {
         // First time showing content - show immediately
-        showFullContent(project);
+        showFullContent(projectData);
         contentView.classList.add('active');
         
         // Ensure opacity is set

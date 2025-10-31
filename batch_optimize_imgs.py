@@ -11,10 +11,10 @@ import glob
 # ============================================
 
 # Input folder with your media
-INPUT_FOLDER = r"C:\Users\Hesham.Shawqy\OneDrive - Grimshaw Architects\HS\00_Profile\Work_Data\001_OXA BRIDGES\test"
+INPUT_FOLDER = r"C:\Users\Hesham.Shawqy\OneDrive - Grimshaw Architects\HS\00_Profile\Work_Data\006_WIDOK\2_High Res Images-20251031T214144Z-1-001\2_High Res Images"
 
 # Output folder
-OUTPUT_FOLDER = r"C:\Users\Hesham.Shawqy\OneDrive - Grimshaw Architects\HS\00_Profile\Work_Data\001_OXA BRIDGES\test\resized"
+OUTPUT_FOLDER = r"C:\Users\Hesham.Shawqy\OneDrive - Grimshaw Architects\HS\00_Profile\Work_Data\006_WIDOK\2_High Res Images-20251031T214144Z-1-001\2_High Res Images\resized"
 
 # Settings
 MAX_IMAGE_DIMENSION = 1500

@@ -1,0 +1,29 @@
+{
+    "id": 5,
+    "title": "Cloud Scape",
+    "year": 2021,
+    "description": "Web geometry configurators @IAAC",
+    "timestamp": "June '21",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761946194/image214_ugj6na.jpg",
+    "content": {
+        "paragraphs": [
+            "",
+            "The purpose of project “Cloudscape” is to create a web-based application for landscape zoning solutions. This online spatial configurator allows the user to interact with the online interface and identify the landscape plot boundary, total area, different zones area, number of trees, and different visualization styles. The project created using Grasshopper3d for Rhino, ThreeJS, Javascript, HTML, and RhinoCompute."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761946194/image214_ugj6na.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761946199/Configs_avfzih.mp4",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            }
+        ]
+    }
+}
+

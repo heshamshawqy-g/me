@@ -1,0 +1,97 @@
+{
+    "id": 1,
+    "title": "OXA Bridges",
+    "year": 2023,
+    "description": "Computational Design @Grimshaw",
+    "timestamp": "Oct '23",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761920973/ViewCapture20230629_161446_thf4mu.png",
+    "content": {
+        "paragraphs": [
+            "",
+            "The Oxagon Village Bridges are designed to unite the core of Oxagon, connecting the Oxagon Village, the Research & Innovation Campus, and Jebels Village, while embracing the captivating Wadi landscape with its ecological and natural features.From a computational design perspective, this project presented several challenges due to its size and complexity.Our goal as the CD team was to develop customized tools to manage the project's library of assets efficiently, enabling architects to develop and maintain various bridge types effectively. This project involved interesting challenges related to bridge gradient slopes, topography analysis, library management, BIM interoperability, and geometry rationalization.",
+            "Second paragraph about your approach, methodology, or design process.",
+            "Third paragraph about results, learnings, or impact."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761920973/ViewCapture20230629_161446_thf4mu.png",
+                "caption": "Optional caption describing this image",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761922158/202_02-42-39-2708_eaitsh.png",
+                "caption": "Optional caption describing this image",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "gif",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761920972/OXA_02_MODULES_tmrdad.gif",
+                "caption": "Video demonstration of the system",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "gif",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761920972/OXA_06_SUN_nnhesc.gif",
+                "caption": "Animated visualization",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761923155/B-01_yvhiha.mp4",
+                "caption": "Animated visualization",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761923159/B-02_ktau2u.mp4",
+                "caption": "Animated visualization",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761923938/B-03_rtjchc.mp4",
+                "caption": "Animated visualization",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "gif",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761920974/OXA_04_SINE_qecq8k.gif",
+                "caption": "Animated visualization",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761931895/B-11_esutju.mp4",
+                "caption": "Animated visualization",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761920974/B-08_wmwdii.mp4",
+                "caption": "Animated visualization",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761932085/B-09_ivoyq2.mp4",
+                "caption": "Animated visualization",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761920976/B-10_fzmobs.mp4",
+                "caption": "Animated visualization",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761920973/OXA_01_bzdujq.png",
+                "caption": "Final result",
+                "position": "end"
+            }
+        ]
+    }
+}
+

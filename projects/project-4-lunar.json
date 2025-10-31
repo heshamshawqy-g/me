@@ -1,0 +1,76 @@
+{
+    "id": 4,
+    "title": "Lunar Residency",
+    "year": 2021,
+    "description": "Combinatorial Generative Systems @IAAC",
+    "timestamp": "July '21",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761943970/image154_jxiqg5.jpg",
+    "content": {
+        "paragraphs": [
+            "",
+            "The purpose of this project is to create a self-sustainable residential community that does not just solve the technical challenges of becoming the first extraterrestrial species, but thrive on it. The project embraced radical inclusion, decommodification, communal effort, radical self-reliance, participation, and an extreme approach to a leave-no-trace attitude towards our community. The design process was based on modularity, adaptability, self-assembly, individuality, and embracing lunar gravity.",
+            "Few references are studied on both conceptual and technical levels. The first reference is the Archigram plug-in city and how a “megastructure” can incorporate residences, access routes, and essential services for the inhabitants, Plug-in City was designed to encourage change through obsolescence: each building outcrop is removable, and a permanent “crane way” facilitates continual rebuilding. The other references are related to inhabiting the space, LUNARK by Saga architects and the MARTIAN house by Hugh Broughton architects.",
+            "The whole project consists of seven elements that belong to different categories; residential, structure, and circulation. These units are designed to allow flexibility of the construction and adaptability to connect more units to help the first lunar community grow on the moon. Each part is created by assembling pre-casted components onsite.There are three residential units to accommodate different families and lifestyle variations",
+            "The skin of the residential units is designed to protect people inside these units from lunar radiations, so the units are constructed from many layers to create a sort of shelter. Taking into consideration different aspects like privacy, spatial quality, and how we can embrace lunar gravity. The structure consists of 6 different layers:",
+            "An aggregation system is created to generate modular and adaptable growth. The aggregation is defined by a set of adjacencies rules, growth field, and volume constraint.The structure starts with setting multiple units and growth vectors toward different neighbors, the seven aggregation parts are connected together later based on the stochastic aggregation rules. These rules are designed to keep the people circulation flow between the vertical circulation, horizontal circulation, and the residential elements.",
+            "Lunar Residency is a project of IAAC, Institute for Advanced Architecture of Catalonia developed at Master in Advanced Computation for Architecture & Design in 2020/21 by students: Marissa Ridzuan + Hesham Shawqy + German Otto Bodenbender Lead Faculty:  David Andres Leon, Faculty Assistant: Oana Taut"
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761943970/image154_jxiqg5.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761944050/lunar-video_kdnmrv.mp4",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761943980/bimsc-group-5-final-submission-2-730x411_zt27sk.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761943975/2025-10-31_20_30_21-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_bfi4fj.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761943985/2025-10-31_20_30_50-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_gof9ok.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761943964/image175_vj97mh.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-4"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761943988/copy-of-bimsc-group-5-final-submission-12-730x411_evee11.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-5"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761943976/2025-10-31_20_41_09-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_fjbywq.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-5"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761943967/image176_hdycks.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-5"
+            }
+        ]
+    }
+}
+

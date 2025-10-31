@@ -1,0 +1,94 @@
+{
+    "id": 2,
+    "title": "Imaginary Vessels",
+    "year": 2021,
+    "description": "Exploring generative design, synthetic datasets and machine learning @IAAC",
+    "timestamp": "July '21",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761920973/ViewCapture20230629_161446_thf4mu.png",
+    "content": {
+        "paragraphs": [
+            "",
+            "This project was born out of curiosity for the handcraft of pottery wheel throwing, one of the most tactile and oldest techniques for making. In particular, we were intrigued by the individuality of each pot, where the marks of the maker are present in each curve and ridge of the final product. We wanted to learn from craftspeople, understanding that even though a master craftsperson knows their trade-in and out, no two pots are ever the same.",
+
+            "The first step was to learn from a potter, whereby we filmed her throwing several pots and began to understand the process of throwing. With a stable central axis, the wheel rotates at different speeds which allows the potter to exert forces at a particular section of the pot which then transforms the full geometry.",
+
+            "In order to simulate the wheel throwing process, we created a central cylinder that was converted into a 3D point cloud. This cloud was rotated along a central axis, and two forces, force a and force b, were applied to it in a variety of ways. The forces had a location, a rotation value, a friction value, as well as a length, and altered the point cloud as they interacted with it.",
+
+            "This was a generative process, where the rotation speed and number of rotations were equally important as the direct interaction with the forces. The final result was a mesh that acted as the simulated final pot. We repeated this action 9500 times, creating a robust parameter space from where to extract data from.",
+            "The next step was to create two different AI models, one to which we would feed forces and it would predict the cross-section, essentially summarizing our parametric script to a single component and a second in which we would predict the forces needed in order to create a pot of a given geometry. We saw a major benefit in having a dual system considering that our final goal is a fabrication. Our A to B model can predict geometries based on a given set of forces. In order to get here, we took our data through a PCA analysis that showed 8 of our variables as independent PCs and created a model architecture with 4 hidden layers that acted as a two-sided funnel. Our scalers were different from our dependent and independent variables due to the nature of their values, where cross-section points were scaled with a MinMax scaler and the forces were scaled with a StandardScaler. This first model was rather simple, as it was able to learn by training for only 20 epochs with a batch value of 200."
+            
+
+
+            
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761933928/01_ofxn0g.png",
+                "caption": "Optional caption describing this image",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761935794/Vessels_Generation_i6c42e.mp4",
+                "caption": "Optional caption describing this image",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761933900/2021-07-03-23_21_39-window_pikokg.jpg",
+                "caption": "Optional caption describing this image",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761933901/2021-07-03-23_21_50-window_bqczxl.jpg",
+                "caption": "Optional caption describing this image",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761933903/2021-07-03-23_21_58-window_regikb.jpg",
+                "caption": "Optional caption describing this image",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761933902/2021-07-03-23_22_05-window_b9m99h.jpg",
+                "caption": "Optional caption describing this image",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761933906/2021-07-03-23_43_42-window_hgzsdo.jpg",
+                "caption": "Optional caption describing this image",
+                "position": "after-paragraph-4"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761936720/Vessels_Generation_data_wcqksp.mp4",
+                "caption": "Optional caption describing this image",
+                "position": "after-paragraph-4"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761933908/2021-07-03-23_49_11-window_r1fjmr.jpg",
+                "caption": "Optional caption describing this image",
+                "position": "after-paragraph-5"
+            },
+            {
+                "type": "gif",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761933934/image270_oxma10.gif",
+                "caption": "Optional caption describing this image",
+                "position": "after-paragraph-5"
+            },
+            {
+                "type": "gif",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761933932/image277_gqh0nc.gif",
+                "caption": "Optional caption describing this image",
+                "position": "end"
+            }
+        ]
+    }
+}
+
