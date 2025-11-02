@@ -155,7 +155,7 @@ a {
 
 .right-panel {
     width: 75%;
-    background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+    background: transparent;
     position: relative;
     height: 100vh;
     overflow-y: auto;
@@ -170,14 +170,18 @@ a {
 
 /* Landing Animation */
 .landing-animation {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
+    right: 0;
+    bottom: 0;
     width: 100%;
     height: 100%;
     z-index: 1;
     opacity: 1;
     transition: opacity 0.5s ease;
+    background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+    pointer-events: none;
 }
 
 .landing-animation.hidden {

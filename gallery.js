@@ -280,7 +280,7 @@ function injectGalleryStyles() {
 
 // Show gallery function (called from main script)
 function showGallery() {
-    // Hide landing animation
+    // Keep animation visible, hide landing text
     hideLandingAnimation();
     
     // Hide placeholder
@@ -290,17 +290,16 @@ function showGallery() {
         contentPlaceholder.classList.remove('visible');
     }
     
-    // Show content view with fade transition (matching other pages)
+    // Show content view with fade transition
     const contentView = document.getElementById('contentView');
     if (contentView) {
-        // Reset opacity and show
         contentView.style.opacity = '0';
         contentView.classList.add('active');
         
         // Initialize gallery
         initGallery();
         
-        // Fade in (matching About/Contact page timing)
+        // Fade in
         setTimeout(() => {
             contentView.style.opacity = '1';
         }, 50);
@@ -310,6 +309,7 @@ function showGallery() {
     const rightPanel = document.querySelector('.right-panel');
     if (rightPanel) {
         rightPanel.scrollTop = 0;
+        rightPanel.classList.remove('no-scroll');
     }
     
     // Clear active project

@@ -166,13 +166,10 @@ function showLandingAnimation() {
 }
 
 function hideLandingAnimation() {
-    const landing = document.getElementById('landingAnimation');
     const landingContent = document.getElementById('landingContent');
     const rightPanel = document.querySelector('.right-panel');
     
-    if (landing) {
-        landing.classList.add('hidden');
-    }
+    // Only hide the text content, keep animation visible
     if (landingContent) {
         landingContent.classList.add('hidden');
     }
@@ -288,8 +285,15 @@ function handleProjectClick(project, element) {
     allProjectItems.forEach(item => item.classList.remove('active'));
     element.classList.add('active');
     
-    // Hide landing animation
-    hideLandingAnimation();
+    // Hide landing animation when viewing project details
+    const landing = document.getElementById('landingAnimation');
+    const landingContent = document.getElementById('landingContent');
+    if (landing) {
+        landing.classList.add('hidden');
+    }
+    if (landingContent) {
+        landingContent.classList.add('hidden');
+    }
     
     // Hide placeholder
     contentPlaceholder.classList.add('hidden');
@@ -465,7 +469,7 @@ navLinks.forEach(link => {
             contentPlaceholder.classList.remove('visible');
             contentPlaceholder.classList.add('hidden');
             
-            // Show landing animation
+            // Show landing animation and content
             showLandingAnimation();
             
             // Clear active project
@@ -476,7 +480,7 @@ navLinks.forEach(link => {
                 rightPanel.scrollTop = 0;
             }
         } else if (section === 'gallery') {
-            // Show gallery view
+            // Show gallery view with animation in background
             showGallery();
         } else if (section === 'about') {
             // You can implement an about page here
@@ -490,7 +494,7 @@ navLinks.forEach(link => {
 
 // Placeholder functions for About and Contact
 function showAboutPage() {
-    // Hide landing animation
+    // Keep animation visible, hide landing text
     hideLandingAnimation();
     
     // Hide placeholder
@@ -511,6 +515,7 @@ function showAboutPage() {
     // Scroll right panel to top
     if (rightPanel) {
         rightPanel.scrollTop = 0;
+        rightPanel.classList.remove('no-scroll');
     }
     
     // Clear active project
@@ -518,7 +523,7 @@ function showAboutPage() {
 }
 
 function showContactPage() {
-    // Hide landing animation
+    // Keep animation visible, hide landing text
     hideLandingAnimation();
     
     // Hide placeholder
@@ -539,6 +544,7 @@ function showContactPage() {
     // Scroll right panel to top
     if (rightPanel) {
         rightPanel.scrollTop = 0;
+        rightPanel.classList.remove('no-scroll');
     }
     
     // Clear active project

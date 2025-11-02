@@ -117,29 +117,3 @@
         initMediaProtection();
     }
 })();
-
-// ============================================
-// CLOUDINARY ADDITIONAL PROTECTION TIPS
-// ============================================
-
-/*
-For enhanced protection, consider these Cloudinary features:
-
-1. **Signed URLs**: Generate time-limited signed URLs that expire
-   Example: https://cloudinary.com/documentation/upload_images#generating_authentication_signatures
-
-2. **Add Watermarks**: Overlay your watermark on images/videos
-   Example: /l_watermark,o_50/your-image.jpg
-
-3. **Reduce Quality**: Serve lower resolution for web display
-   Example: /q_auto:low,f_auto/your-image.jpg
-
-4. **Use transformations**: Apply effects that make the image less useful if stolen
-   Example: /e_blur:100/your-image.jpg (for previews)
-
-5. **Cloudinary Access Control**: Set up IP restrictions or token-based authentication
-
-Implementation example for signed URLs in your project JSON files:
-"previewImage": "https://res.cloudinary.com/[cloud]/image/upload/s--signature--/v123/image.jpg"
-*/
-
