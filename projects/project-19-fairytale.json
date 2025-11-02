@@ -1,0 +1,50 @@
+{
+    "id": 19,
+    "title": "Aliferous",
+    "year": 2017,
+    "description": "Merging Narrative, Computation, and Visualization. A proposal for Fairy Tale Architecture competition 2017",
+    "timestamp": "January '18",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762051017/06-NIGHT_shot_qamppc.jpg",
+    "content": {
+        "paragraphs": [
+            "",
+            "Aliferous: Architecture as a Guardian was conceived as a proposal for the Fairy Tale Architecture Competition 2017, exploring the poetic relationship between children and their shelter. The project reimagines the house not merely as a structure, but as a protective companion, an ever-watchful guardian that awakens through the children’s imagination. By weaving narrative and design, the story frames architecture as armor, a shield against the unknown dangers lurking in the shadows, while also celebrating the innocence and creativity of childhood.",
+            "The design process integrated computational methods with the timeless art of storytelling, merging complex geometry with the fluidity of fairy tale imagination. Through algorithmic exploration, forms were generated that could embody both strength and playfulness, echoing the dual role of the house as protector and friend. This interplay between digital precision and narrative depth allowed the architecture to transcend its physicality, becoming a living character within the story—one that grows, adapts, and defends alongside its young inhabitants.",
+            "To visualize this vision, the project experimented with a hybrid technique combining digital modeling and digital matte painting. This approach created a unique visual language that blurred the line between architectural representation and cinematic fantasy. The resulting imagery conveyed not only the technical intricacy of the design but also the dreamlike atmosphere of the tale, offering a new style of architectural visualization where storytelling and design coalesce into a single, immersive experience.",
+            "The project was developed by Hazem Adel, Rokaya Ahmed and Hesham Shawqy as a proposal for the Fairy Tale Architecture competition, 2017 "
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762081101/Scene_01_gleijh.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762081100/Scene_02_mqvroo.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762081100/Scene_03_jq32hm.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762081101/Scene_04_v3ut4e.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762081100/Scene_05_xlb3kf.png",
+                "caption": "Optional caption",
+                "position": "end"
+            }
+        ]
+    }
+}
+

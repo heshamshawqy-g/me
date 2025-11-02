@@ -1,0 +1,55 @@
+{
+    "id": 18,
+    "title": "Sports Centre",
+    "year": 2017,
+    "description": "Circular Dynamics: Physics‑Driven Form and Hexagonal Panelization in Stadium Design @Unii",
+    "timestamp": "November '17",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762051017/06-NIGHT_shot_qamppc.jpg",
+    "content": {
+        "paragraphs": [
+            "",
+            "The proposed stadium design reimagines sports architecture through the lens of geometry and physics. Rooted in the universal form of the circle, an element present in nearly every sport—the project translates this geometry into a unifying architectural language. The design envisions a continuous, terrain‑like surface that integrates all land uses under a single sweeping form. Inspired by the hexagonal grid of a sports net, the stadium’s skin pattern reinforces the conceptual link between play, geometry, and structure, while the exterior layer is carefully tuned to adapt natural light for diverse interior spaces.",
+            "The form‑finding process was driven by advanced computational techniques, including mesh relaxation, soft body collision simulations, and parametric design workflows. These methods allowed the design team to explore how surfaces behave under physical forces, generating fluid geometries that balance structural efficiency with expressive form. By simulating the interaction of curvature, load distribution, and tension, the stadium’s architecture emerged as both a sculptural response to physics and a functional solution for large‑scale spatial performance.",
+            "To translate the complex free‑form geometry into a buildable system, a panelization strategy was developed. The hexagonal grid, derived from the sports net, was rationalized into modular panels that could adapt to varying curvatures while maintaining structural integrity and visual coherence. This approach not only optimized fabrication and assembly but also created a dynamic play of light and shadow across the stadium’s surfaces. The result is a layered skin system that merges conceptual inspiration with practical constructability, ensuring the stadium is both visionary and feasible."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762052429/05_ksafis.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762052429/06_olrcvk.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762052429/VIEWS_xsmytz.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762052429/SPORTS_TEMPLATE_005_i9icks.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762052835/01_tpyssr.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762052429/image_55_itgv58.png",
+                "caption": "Optional caption",
+                "position": "end"
+            }
+        ]
+    }
+}
+
