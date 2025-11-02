@@ -1,0 +1,61 @@
+{
+    "id": 13,
+    "title": "ACP Bridge",
+    "year": 2020,
+    "description": "Geometry Rationalization and Optimization for a multimodal bridge @Archi-Heaven, Saudi Arabia",
+    "timestamp": "Feb '20",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762039990/image_29_wut5u1.png",
+    "content": {
+        "paragraphs": [
+            "",
+            "The ACP Bridge project in Saudi Arabia is driven by the need to rationalize the complex geometry of a multimodal bridge, ensuring that its ambitious architectural form can be translated into a feasible manufacturing and construction process. The focus was on breaking down the bridge’s intricate skin into clusters of panels with shared characteristics, reducing fabrication complexity while maintaining design intent. By grouping panels into families of similarity, the project achieved a balance between expressive geometry and efficient production.",
+            "The ACP Bridge project in Saudi Arabia is driven by the need to rationalize the complex geometry of a multimodal bridge, ensuring that its ambitious architectural form can be translated into a feasible manufacturing and construction process. The focus was on breaking down the bridge’s intricate skin into clusters of panels with shared characteristics, reducing fabrication complexity while maintaining design intent. By grouping panels into families of similarity, the project achieved a balance between expressive geometry and efficient production.",
+            "Building on this optimized geometry, a parametric model was developed to generate detailed shop drawings directly from the rationalized design. This model embedded fabrication logic, connection details, and assembly sequences, enabling seamless coordination between design, engineering, and construction teams. By integrating these processes into a single parametric workflow, the ACP Bridge project demonstrates how computational design can bridge the gap between visionary architecture and practical delivery."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762039990/image_29_wut5u1.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1762039939/V-01_tbxl78.mp4",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762039979/image108_f1fokf.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762039996/image110_bdmawx.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762039984/image109_ktuihb.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762040705/2025-11-01_23_42_30-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_bbyijx.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762039992/image_28_zi9oxo.png",
+                "caption": "Optional caption",
+                "position": "end"
+            }
+        ]
+    }
+}
+

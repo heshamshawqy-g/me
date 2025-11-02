@@ -1,0 +1,67 @@
+{
+    "id": 10,
+    "title": "RA Walls",
+    "year": 2022,
+    "description": "Parametric lighting installation that merges geometrical art, CNC fabrication, and artificial illumination",
+    "timestamp": "March '22",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762030420/image134_yw6fmt.png",
+    "content": {
+        "paragraphs": [
+            "",
+            "The project aims to explore the intersection of geometrical art, artificial lighting, and digital fabrication through a performative wall installation. Designed as a lighting wall feature, it integrates artistic expression with functional illumination by combining solid sheet materials, parametric modeling, and CNC machining. The outcome is a hybrid design element that not only enhances spatial ambiance but also demonstrates the potential of computational design in product innovation.",
+            "The generative pattern system draws inspiration from the rhythmic qualities of pottery wheel motions and geometrical transformations. Through a parametric scripting process, the design evolves dynamically, creating intricate tiling compositions that shift across multiple dimensions. Each iteration captures a balance between order and fluidity, resulting in a visual language that changes when viewed from different angles, enriching the perceptual depth of the installation.",
+            "To realize the complex geometry, the CNC milling paths were optimized using parametric algorithms that minimize material waste and machining time while maintaining precision. The pattern paths were adjusted in the X, Y, and Z directions to synchronize with machine capabilities and ensure seamless transitions between modules. The final assembly consists of 43 precision-milled pieces, illuminated by concealed light sources that vary in intensity according to the depth of each cut, merging fabrication logic with atmospheric"
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762030420/image134_yw6fmt.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1762032684/V-03_nmwse9.mp4",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762032102/Patterns_vsa2v0.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762030407/image135_jpjopj.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762030415/image136_thtyoh.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1762030411/V-01_zx5q9c.mp4",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1762031205/V-02_sph3ck.mp4",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762030413/image134_jv0jhx.jpg",
+                "caption": "Optional caption",
+                "position": "end"
+            }
+        ]
+    }
+}
+

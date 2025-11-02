@@ -1,0 +1,75 @@
+{
+    "id": 7,
+    "title": "City Library",
+    "year": 2023,
+    "description": "Urban mining using computer vision techniques",
+    "timestamp": "Nov '23",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761953332/image242_szfcw2.jpg",
+    "content": {
+        "paragraphs": [
+            "",
+            "Rethinking the Urban Material Cycle: As cities continue to grow and the climate crisis intensifies, the built environment must be seen not just as a consumer of resources but as a vast repository of materials. This research revisits the concept of urban mining, proposing that the anthroposphere, the world of human-made structures, can serve as a renewable source for future construction. By treating existing buildings as material banks, we can shift from linear consumption models toward circular and regenerative urban practices.",
+            "Data-Driven Mapping of Material Stocks: To support this vision, the study develops an integrated method that combines image-based segmentation and geospatial data within a web-based GIS application. Using open imagery sources such as Google Street View, the system automatically identifies, geolocates, and quantifies façade materials including concrete, brick, stone, metal, timber, and glass across a city. With a current accuracy of 87%, this predictive model offers an alternative to costly field inspections, enabling scalable and replicable assessments for cities worldwide. ",
+            "Machine Learning for Circular Design Intelligence: At the core of the workflow lies a Generative Adversarial Network (GAN) based on the Pix2Pix framework, capable of pixel-wise material segmentation from façade images. The network was trained on a curated dataset of labelled urban images, producing detailed mappings that link visual data with cadastral records. This fusion of computer vision and urban analytics opens new pathways for automating the creation of building material inventories that are critical for planning reuse and resource efficiency at the city scale.",
+            "Toward an Interface for Circular Cities: The outcome is a digital material repository designed as an interactive map for urban stakeholders. Planners, policymakers, and designers can use it to visualize, compare, and anticipate the availability of reusable materials across the built environment. By integrating AI-driven insights with public data, this approach contributes to a more transparent and measurable circular economy, where cities understand what they are made of and how their resources can be reimagined for the future.",
+            "Enhanced Databases on City’s Building Material Stock. An Urban Mining Method Based on Machine Learning for Enabling Building’s Materials Reuse Strategies, November 2023, DOI: 10.1007/978-3-031-36554-6_44, In book: Design for Rethinking Resources, Areti Markopoulou, Oana Taut, Hesham Shawqy"
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761953332/image242_szfcw2.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761953339/2025-10-31_23_27_08-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_o8jtqo.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761953332/image243_cs34kv.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761953331/image254_fcox9y.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761953331/image255_ewjw4a.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761953338/v-03_tzernp.mp4",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761953339/v-02_byferf.mp4",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761953341/v-01_x7e2me.mp4",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761953335/2022-07-13_22_08_20-Window_llthao.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-4"
+            }
+        ]
+    }
+}
+

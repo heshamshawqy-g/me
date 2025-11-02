@@ -1,0 +1,70 @@
+{
+    "id": 8,
+    "title": "Farm Scapes",
+    "year": 2021,
+    "description": "Urban farming, food production analysis, urban data",
+    "timestamp": "Dec '21",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761956471/Slide118_n0rj4j.png",
+    "content": {
+        "paragraphs": [
+            "",
+            "By 2050, 68% of the world population will be living in cities. In order to best accommodate this rapid urbanization growth while making cities more sustainable, designers must find creative solutions for the big challenges that are going to arise from this reality.",
+            "The approach of this study spans three different scales: macro, meso, and micro. This methodology helped us discover the potential applications at a city level, connected with meso realities of each area, and finally implemented and tested at a micro-level on a real-case rooftop of Kampala, Uganda. This research explores the use of existing GIS and open databases to register and map the quantity and quality of the existing rooftops and couple this with the latest computer vision technology to alleviate the man-powered need to complete these datasets.",
+            "Once we established the overall approach, we mapped and developed the data workflow. The first step was to start gathering all available data related to the site and its context. We make use of three different sources: Building shapes and positions extracted from OpenStreetMap website service, roof conditions and materiality from Open Cities Africa, and population factors extracted from the Uganda Open Map service.",
+            "To group all the existing roof surfaces based on 6 different categories, we used an unsupervised machine learning algorithm called K-Means clustering.The k-means clustering was run in a python environment in visual studio and connected with Grasshopper using Hops. All the final values were packaged and presented onto a web-based map application using Mapbox and Carto systems where the user can navigate through all the available roofs and check their suitability for urban farming.",
+            "The proposed hydroponic farming system could be fabricated using local materials and traditional assembling techniques. The irrigation water system should be integrated with the existing house infrastructure and by adding a water pump at the ground level. The vertical staircases are enhancing the bottom-top connectivity for local farmers. Two water tanks are added to the highest level to store water, and the sloped pipes should be enough to carry water down to the crops. Finally,  the main arcade structure system is taking care of carrying the load shared with the existing house structure.",
+            "FARMSCAPES is the final thesis of IAAC, Institute for Advanced Architecture of Catalonia developed in the Master in Advanced Computation for Architecture & Design in 2020/21 by Hesham Shawqy and German Otto Bodenbender. Faculty: Angelows Chronis"
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761956471/Slide118_n0rj4j.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761956463/V-01_nhq3sh.mp4",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761956505/image31_caq84i.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761956486/Slide116_rkkawq.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761956485/Slide115_h3hcem.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761956532/image79_vvfsta.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-4"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761957866/image90_scnv2y.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-5"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761956473/image216_x8eema.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-5"
+            }
+        ]
+    }
+}
+

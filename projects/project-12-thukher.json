@@ -1,0 +1,67 @@
+{
+    "id": 12,
+    "title": "Thukher Club",
+    "year": 2020,
+    "description": "The Thukher project transforms complex skin into efficient, standardized panels @Archi-Heaven, Dubai",
+    "timestamp": "July '21",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762036691/image96_kflzuf.jpg",
+    "content": {
+        "paragraphs": [
+            "",
+            "The Thukher project is centered on developing an advanced administrative complex that redefines the relationship between architectural expression and construction efficiency. The primary focus lies in creating a high-performance building envelope that balances aesthetics, structural integrity, and constructability. By integrating parametric design tools with engineering workflows, the project team sought to optimize the skin system, ensuring that the architectural vision could be realized without compromising on cost, material efficiency, or structural coordination",
+            "A key challenge addressed in the project was the rationalization of double-curved surfaces within the façade design. Instead of relying on costly bespoke fabrication, the design team employed computational methods to subdivide and standardize the complex geometry into planar or near-planar panels. This approach allowed for the preservation of the intended fluid form while ensuring that the skin could be manufactured using conventional aluminum sheet materials. The rationalization process not only reduced fabrication complexity but also streamlined installation by aligning with the structural grid and minimizing clashes with the primary frame.",
+            "To support this workflow, a pre-Design for Manufacture and Assembly (DfMA) parametric system was generated. Using Grasshopper and Rhino, the team developed a rule-based model that embedded structural layers, connection details, and panelization logic directly into the digital design environment. This parametric system enabled rapid iteration, automated documentation, and seamless export into Revit families for coordination. By embedding fabrication and assembly intelligence early in the design process, the Thukher project exemplifies how computational design can bridge the gap between architectural ambition and practical delivery."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762036691/image96_kflzuf.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762036191/image_24_l2t1fy.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762036859/2025-11-01_22_38_40-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_bzsdar.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762036179/image101_cirnfs.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762036203/image99_oagtc7.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762036860/2025-11-01_22_39_02-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_feetwn.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762037690/1.37.1_1.37.1_djbdob.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762036193/image_26_c7uzm6.png",
+                "caption": "Optional caption",
+                "position": "end"
+            }
+        ]
+    }
+}
+

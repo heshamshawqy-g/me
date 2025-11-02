@@ -1,0 +1,61 @@
+{
+    "id": 11,
+    "title": "MREA Tower",
+    "year": 2017,
+    "description": "Generative residential tower design that optimizes Nile views through parametric geometry @Unii, Cairo",
+    "timestamp": "July '21",
+    "previewImage": "https://link-to-preview-image.jpg",
+    "content": {
+        "paragraphs": [
+            "",
+            "The MREA Nile Tower project was developed to explore how generative design can optimize the waterfront view range and environmental performance of a residential tower in Cairo. By integrating environmental analysis during the early design stages, the tower’s form was manipulated to extend its perimeter toward the Nile, enhancing both the visual experience and solar performance. The design aims to balance architectural elegance with climate responsiveness, creating a dynamic relationship between built form and natural context.",
+            "The parametric skin system draws inspiration from the layered textures and fluid patterns of natural erosion along the Nile Riverbanks. Using environmental data such as solar radiation and orientation, the façade was designed to generate adaptive passive shading elements that minimize heat gain while maintaining daylight and panoramic views. The result is a responsive skin that evolves across the tower’s height, combining aesthetic rhythm with performative efficiency.",
+            "To manage the project’s geometric complexity, parametric modeling and automation tools were used to rationalize the tower’s form and façade system. The design team employed data-driven workflows to generate, tag, and export detailed curtain wall panels for fabrication and documentation. Through this process, every panel was coded according to its orientation and environmental role, ensuring precision in construction while preserving the tower’s elegant and optimized architectural language."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762034270/image129_izly0i.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762034274/Diagram-01_wxaw53.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762034283/image128_j6qip2.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762034279/image130_gb5zq4.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762034295/05_nczsty.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762034276/image131_qwd51q.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762034288/image_22_mpw0to.png",
+                "caption": "Optional caption",
+                "position": "end"
+            }
+        ]
+    }
+}
+

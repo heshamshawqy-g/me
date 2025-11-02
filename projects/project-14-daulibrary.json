@@ -1,0 +1,55 @@
+{
+    "id": 14,
+    "title": "DAU Library",
+    "year": 2018,
+    "description": "Sustainable Design and Parametric Façade Rationalization for the Dar Al‑Uloum Library @UDAAR",
+    "timestamp": "Feb '18",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762042005/01_rk1xrl.jpg",
+    "content": {
+        "paragraphs": [
+            "",
+            "The project reimagines the Dar Al‑Uloum Library and its surrounding campus as a dynamic cultural and educational hub, integrating architectural innovation with environmental responsiveness to create spaces that foster knowledge exchange, creativity, and community engagement.",
+            "At both the urban and building scales, the design employs passive techniques such as wind‑tunnel effects, evaporative cooling through water channels, extensive shading devices, and strategic orientation of masses. These strategies reduce energy demand, enhance outdoor comfort, and preserve natural elements while maximizing daylight for interior reading and social spaces.",
+            "The building envelope is developed through a parametric design system that rationalizes complex wall geometries into optimized, manufacturable components. This process ensures efficient material use, facilitates fabrication, and maintains the architectural intent while embedding performance criteria such as shading, daylight control, and thermal comfort directly into the façade design."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762042005/01_rk1xrl.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762041993/form_generation_vsy5zu.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762041991/02_fqn3ed.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762041996/3d_section_seuews.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762041999/04_ymjbdq.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762042001/plan_d28m4x.png",
+                "caption": "Optional caption",
+                "position": "end"
+            }
+        ]
+    }
+}
+
