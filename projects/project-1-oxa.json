@@ -27,13 +27,13 @@
             },
             {
                 "type": "gif",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761920972/OXA_02_MODULES_tmrdad.gif",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761920972/OXA_02_MODULES_tmrdad.gif",
                 "caption": "Video demonstration of the system",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "gif",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761920972/OXA_06_SUN_nnhesc.gif",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761920972/OXA_06_SUN_nnhesc.gif",
                 "caption": "Animated visualization",
                 "position": "after-paragraph-2"
             },
@@ -57,7 +57,7 @@
             },
             {
                 "type": "gif",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761920974/OXA_04_SINE_qecq8k.gif",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761920974/OXA_04_SINE_qecq8k.gif",
                 "caption": "Animated visualization",
                 "position": "after-paragraph-2"
             },
