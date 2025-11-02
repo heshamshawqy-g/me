@@ -1,0 +1,73 @@
+{
+    "id": 15,
+    "title": "Masjid Al-Nabawi",
+    "year": 2019,
+    "description": "Parametric Documentation of Al‑Masjid Al‑Nabawi-Tracing Architectural Evolution Through Advanced Geometry Modeling @UDAAR",
+    "timestamp": "August '19",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043523/image_33_s7wgly.png",
+    "content": {
+        "paragraphs": [
+            "",
+            "The Architectural Historical Documentation of Al‑Masjid Al‑Nabawi project was initiated as a comprehensive effort to preserve and analyze the evolution of one of the most significant religious and cultural landmarks in the Islamic world. Building on the vision launched in 2018 with the inauguration of the architectural encyclopedia of the Prophet’s Mosque, the project aims to establish a rigorous reference that documents the mosque’s architectural development across centuries. It highlights the successive expansions, transformations, and design principles rooted in Islamic jurisprudence, while addressing the historical gaps in architectural knowledge through a structured, research‑driven framework.",
+            "Central to the project is the use of advanced computational design methods to capture and rationalize the mosque’s complex geometries across different historical timelines. Parametric modeling techniques, combined with mesh relaxation and geometry optimization, allow for the reconstruction of intricate Islamic patterns, domes, and structural systems with high precision. By clustering and rationalizing these geometries, the project not only preserves the authenticity of the mosque’s architectural language but also makes it possible to compare, analyze, and visualize its transformations in a systematic and scalable way.",
+            "To ensure accuracy and accessibility, the documentation integrates multi‑layered outputs including 2D and 3D architectural drawings, parametric digital models, and photogrammetric reconstructions. These are further supported by high‑resolution photography, graphic re‑creations, and scholarly architectural studies. The result is a multilingual body of work—available in Arabic, English, and French—that serves as both a technical archive and a cultural resource. By merging traditional scholarship with state‑of‑the‑art digital modeling, the project establishes a lasting architectural record of Al‑Masjid Al‑Nabawi, safeguarding its legacy for future generations."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043523/image_33_s7wgly.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043531/14_-%D9%82%D8%B7%D8%A7%D8%B9_%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%8A_%D9%84%D9%84%D9%85%D8%B3%D8%AC%D8%AF_tgfjls.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043540/02-_%D9%84%D9%82%D8%B7%D8%A9_%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%8A%D8%A9_%D9%84%D9%85%D8%B3%D9%85%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%A3%D8%AC%D8%B2%D8%A7%D8%A1_%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%84%D9%81%D8%A9_%D9%84%D9%84%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A_%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81_u9qnbg.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043517/08-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9_%D9%84%D9%84%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A_%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81_habhu7.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043537/03_-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A_%D9%84%D8%A8%D9%88%D8%A7%D8%A8%D8%A9_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85_%D8%AE%D9%84%D8%A7%D9%84_%D8%A7%D9%84%D8%AD%D9%82%D8%A8_%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%84%D9%81%D8%A9_%D9%84%D9%84%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A_%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81_tabvby.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043543/05-%D9%82%D8%B7%D8%A7%D8%B9_%D8%AB%D9%84%D8%A7%D8%AB%D9%8A_%D8%A7%D9%84%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF_%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D9%82%D8%A8%D8%A9_%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1_c2fvrj.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043534/image_34_cnnske.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043526/CeilingMaterials_oihmhx.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043546/5_edcbyt.jpg",
+                "caption": "Optional caption",
+                "position": "end"
+            }
+        ]
+    }
+}
+

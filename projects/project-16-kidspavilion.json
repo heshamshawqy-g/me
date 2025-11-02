@@ -1,0 +1,55 @@
+{
+    "id": 16,
+    "title": "Inve Pavilion",
+    "year": 2013,
+    "description": "Free‑Form Ribbon Shells: Exploring Physical Models and AI Visualizations for Creative Learning Spaces",
+    "timestamp": "August '19",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762048375/image_43_d9rspm.png",
+    "content": {
+        "paragraphs": [
+            "",
+            "The project investigates free‑form architectural experimentation through slime surface modeling, gravity load testing, and hand‑crafted curvature studies, while extending the exploration into AI‑generated imagery to visualize and iterate design possibilities. Together, these methods aim to develop innovative ribbon shell structures and shading networks that merge physical intuition with digital imagination.",
+            "By combining physical model testing with AI‑assisted visualizations, the design process examines how surface curvature, load distribution, and proximity networks can be optimized. This hybrid workflow allows for both tactile understanding of structural behavior and rapid digital exploration of variations, enhancing the efficiency and creativity of form‑finding.",
+            "Conceived as an outdoor creative hub for children, the project provides a playful yet functional environment that encourages invention, collaboration, and hands‑on learning. Through the integration of physical experimentation and AI visualization, the design promotes fun, curiosity, and innovation, inspiring future generations to explore the intersection of creativity, technology, and architecture."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762048375/image_43_d9rspm.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762048368/image_51_yxeoir.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762048359/image_49_wdfvwd.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762048372/image_53_lfpwx2.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762048365/image_52_mf88k5.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762048583/image_44_a07bb6.png",
+                "caption": "Optional caption",
+                "position": "end"
+            }
+        ]
+    }
+}
+
