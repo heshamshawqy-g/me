@@ -1,0 +1,129 @@
+{
+    "profile": {
+        "image": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762108615/Hesham_Shawqy_cb1kih.jpg",
+        "name": "Hesham Shawqy",
+        "title": "Computational Designer",
+        "bio": [
+            "Hesham Shawqy is an architect and computational designer specializing in computational design, artificial intelligence, and web development. Currently serving as Computational Design Specialist at Grimshaw, London, he also leads the Complex Forming seminar as part of the MACAD program at IAAC (Institute for Advanced Architecture of Catalonia).",
+            "He earned his Master's degree in Advanced Computation for Architecture & Design in 2021, with research interests centered on digitizing handcrafts through machine learning and robotic fabrication. His diverse portfolio spans product design, historical documentation, urban development, museum exhibits, and housing projects."
+        ]
+    },
+    "experience": [
+        {
+            "year": "2022 – Present",
+            "company": "Grimshaw Architects, London",
+            "role": "Computational Design Specialist",
+            "description": "Developing parametric design tools, defining computational workflows, and leading training programs for complex large-scale projects."
+        },
+        {
+            "year": "2022 – Present",
+            "company": "Institute for Advanced Architecture of Catalonia (IAAC), Barcelona",
+            "role": "Lecturer",
+            "description": "Teaching computational design methods and advanced form-finding strategies in the master's program."
+        },
+        {
+            "year": "2021 – 2022",
+            "company": "Institute for Advanced Architecture of Catalonia (IAAC), Barcelona",
+            "role": "Research Assistant",
+            "description": "Supported research on web-based ML applications and interactive design configurators."
+        },
+        {
+            "year": "2018 – 2021",
+            "company": "Ingraft (Computational Design Consultancy)",
+            "role": "Founder / Computational Designer",
+            "description": "Delivered consultancy projects worldwide focused on complex geometry, automation, and generative design."
+        },
+        {
+            "year": "2019 – 2021",
+            "company": "A_A& Design, Hong Kong",
+            "role": "Part-Time Computational Designer",
+            "description": "Contributed to digital design workflows and parametric modeling for diverse architectural projects."
+        },
+        {
+            "year": "2018 – 2020",
+            "company": "American University in Cairo",
+            "role": "Teaching Assistant",
+            "description": "Assisted in computational design and digital fabrication courses."
+        },
+        {
+            "year": "2018 – 2019",
+            "company": "LDP + Partners, Turkey / KSA / Kuwait",
+            "role": "Senior Computational Designer",
+            "description": "Worked on regional architectural projects from concept to detailed design."
+        },
+        {
+            "year": "2016 – 2018",
+            "company": "UDAAR for Engineering Consultancy & Technology Solutions",
+            "role": "Computational Designer",
+            "description": "Led a design team developing computational design systems and digital modeling solutions."
+        }
+    ],
+    "skills": [
+        "Complex Geometry",
+        "Automation",
+        "Training",
+        "Teaching",
+        "Environmental Performance",
+        "BIM",
+        "Procedural Modeling",
+        "Machine Learning",
+        "AI"
+    ],
+    "tools": [
+        {
+            "name": "Rhino",
+            "category": "3D Modeling"
+        },
+        {
+            "name": "Grasshopper",
+            "category": "Parametric Design"
+        },
+        {
+            "name": "Python",
+            "category": "Programming"
+        },
+        {
+            "name": "JavaScript",
+            "category": "Programming"
+        },
+        {
+            "name": "Revit",
+            "category": "BIM"
+        },
+        {
+            "name": "Three.js",
+            "category": "Web Graphics"
+        },
+        {
+            "name": "Houdini",
+            "category": "Procedural"
+        },
+        {
+            "name": "PyTorch",
+            "category": "ML/AI"
+        }
+    ],
+    "social": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/hesham-shawqy/",
+            "icon": "linkedin"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/hesham.shawqy/",
+            "icon": "instagram"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/HeshamShawqy",
+            "icon": "github"
+        },
+        {
+            "platform": "Email",
+            "url": "mailto:hesham.k.shawqy@gmail.com",
+            "icon": "email"
+        }
+    ]
+}
+

@@ -2,15 +2,15 @@
     "id": 1,
     "title": "OXA Bridges",
     "year": 2023,
-    "description": "Computational Design @Grimshaw",
+    "description": "A computationally driven bridge network through modular design, geometry rationalization, and seamless BIM interoperability @Grimshaw",
     "timestamp": "Oct '23",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761920973/ViewCapture20230629_161446_thf4mu.png",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761920974/OXA_04_SINE_qecq8k.gif",
     "content": {
         "paragraphs": [
             "",
-            "The Oxagon Village Bridges are designed to unite the core of Oxagon, connecting the Oxagon Village, the Research & Innovation Campus, and Jebels Village, while embracing the captivating Wadi landscape with its ecological and natural features.From a computational design perspective, this project presented several challenges due to its size and complexity.Our goal as the CD team was to develop customized tools to manage the project's library of assets efficiently, enabling architects to develop and maintain various bridge types effectively. This project involved interesting challenges related to bridge gradient slopes, topography analysis, library management, BIM interoperability, and geometry rationalization.",
-            "Second paragraph about your approach, methodology, or design process.",
-            "Third paragraph about results, learnings, or impact."
+            "The Oxa Bridges are conceived as vital connectors, uniting Oxagon Village, the Research & Innovation Campus, and Jebels Village while weaving seamlessly into the dramatic Wadi landscape. From a computational design perspective, the project demanded solutions to a wide range of digital challenges: negotiating rough and irregular topography, resolving double-curved structural elements, rationalizing complex geometries, and maximizing shading performance. At the same time, the team had to manage a massive kit-of-parts model library, ensure BIM interoperability, and coordinate across 25 Rhino and Revit files—each requiring precision and consistency to maintain design integrity at scale.",
+            "To address these challenges, the computational design team developed custom digital workflows that streamlined the use of modular bridge components. By automating the assembly of kit-of-parts modules, the process allowed for rapid iteration and efficient adaptation to varying site conditions. A key focus was the geometry rationalization of the sine-wave canopy elements, which were standardized into buildable components without losing their expressive architectural quality. This balance between automation and design intent ensured that the bridges could be both technically feasible and visually distinctive.",
+            "As the project scaled, the complexity of managing 25 interconnected Rhino and Revit files became a central challenge. The team established robust interoperability protocols, enabling smooth data exchange between platforms and disciplines. This digital infrastructure allowed architects, engineers, and consultants to work collaboratively while maintaining accuracy across all design stages. By integrating computational design tools with BIM workflows, the project achieved a scalable, coordinated system that could handle the complexity of multiple bridge types while preserving the ecological and architectural vision of the Oxagon landscape."
         ],
         "media": [
             {
@@ -65,25 +65,25 @@
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761931895/B-11_esutju.mp4",
                 "caption": "Animated visualization",
-                "position": "after-paragraph-2"
+                "position": "after-paragraph-3"
             },
             {
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761920974/B-08_wmwdii.mp4",
                 "caption": "Animated visualization",
-                "position": "after-paragraph-2"
+                "position": "after-paragraph-3"
             },
             {
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761932085/B-09_ivoyq2.mp4",
                 "caption": "Animated visualization",
-                "position": "after-paragraph-2"
+                "position": "after-paragraph-3"
             },
             {
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761920976/B-10_fzmobs.mp4",
                 "caption": "Animated visualization",
-                "position": "after-paragraph-2"
+                "position": "after-paragraph-3"
             },
             {
                 "type": "image",

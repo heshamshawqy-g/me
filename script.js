@@ -475,6 +475,9 @@ navLinks.forEach(link => {
             if (rightPanel) {
                 rightPanel.scrollTop = 0;
             }
+        } else if (section === 'gallery') {
+            // Show gallery view
+            showGallery();
         } else if (section === 'about') {
             // You can implement an about page here
             showAboutPage();
@@ -487,33 +490,23 @@ navLinks.forEach(link => {
 
 // Placeholder functions for About and Contact
 function showAboutPage() {
-    const aboutHTML = `
-        <div class="content-article">
-            <div class="content-header">
-                <h1 class="content-title">About</h1>
-            </div>
-            <div class="content-body">
-                <p>Add your about content here. Tell visitors about yourself, your background, and what you do.</p>
-            </div>
-        </div>
-    `;
-    
     // Hide landing animation
     hideLandingAnimation();
     
-    // Set content and show
-    contentView.innerHTML = aboutHTML;
+    // Hide placeholder
+    contentPlaceholder.classList.add('hidden');
+    contentPlaceholder.classList.remove('visible');
     
     // Reset opacity and show
     contentView.style.opacity = '0';
     contentView.classList.add('active');
     
+    // Initialize about page
+    initAboutPage();
+    
     setTimeout(() => {
         contentView.style.opacity = '1';
     }, 50);
-    
-    contentPlaceholder.classList.add('hidden');
-    contentPlaceholder.classList.remove('visible');
     
     // Scroll right panel to top
     if (rightPanel) {
@@ -525,33 +518,23 @@ function showAboutPage() {
 }
 
 function showContactPage() {
-    const contactHTML = `
-        <div class="content-article">
-            <div class="content-header">
-                <h1 class="content-title">Contact</h1>
-            </div>
-            <div class="content-body">
-                <p>Add your contact information here. Email, social media links, or a contact form.</p>
-            </div>
-        </div>
-    `;
-    
     // Hide landing animation
     hideLandingAnimation();
     
-    // Set content and show
-    contentView.innerHTML = contactHTML;
+    // Hide placeholder
+    contentPlaceholder.classList.add('hidden');
+    contentPlaceholder.classList.remove('visible');
     
     // Reset opacity and show
     contentView.style.opacity = '0';
     contentView.classList.add('active');
     
+    // Initialize contact page
+    initContactPage();
+    
     setTimeout(() => {
         contentView.style.opacity = '1';
     }, 50);
-    
-    contentPlaceholder.classList.add('hidden');
-    contentPlaceholder.classList.remove('visible');
     
     // Scroll right panel to top
     if (rightPanel) {

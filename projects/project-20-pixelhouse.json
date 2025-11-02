@@ -1,0 +1,61 @@
+{
+    "id": 20,
+    "title": "Punctured Space",
+    "year": 2018,
+    "description": "Spatial Punctured, Agent-Based Morphologies for Compact Living @UDAAR",
+    "timestamp": "November '18",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762082892/image_66_uguxjf.png",
+    "content": {
+        "paragraphs": [
+            "",
+            "Punctured Space: A Case for Reclaimed Dwelling proposes a new approach to housing in Hong Kong’s hyper-dense urban fabric. Instead of relying on conventional high-density models, the project reclaims overlooked and underutilized voids by inserting compact modular units into pixel-sized land plots. Through this strategy, lost spaces are transformed into functional, multi-dimensional environments that respond to circulation, activity, and user behavior, offering a more adaptive and humane alternative to rigid housing typologies",
+            "The design process is driven by agent-based modeling, where simulated user movements inform the spatial configuration of each dwelling. By tracking circulation patterns in three dimensions, the system identifies optimal pathways and zones of activity, allowing the architecture to evolve organically from patterns of use. This generative method ensures that the resulting forms are not only efficient but also responsive to the lived experience of inhabitants, producing spatial punctures that unlock hidden potential within constrained plots.",
+            "Once the generative framework defines the spatial logic, computational design tools are employed to pack and arrange the modular units into cohesive 3D configurations. The aggregation system enables units to interlock and adapt across multiple scales, from individual dwellings to larger urban clusters. This computational packing process ensures maximum efficiency while maintaining flexibility, creating a dynamic housing network that grows through the reclamation of voids rather than the imposition of uniform density."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762082892/image_66_uguxjf.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762082891/form-finding_llwvrf.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762082892/board-02_cuzx85.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762082891/diagram-02_tsd6qv.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762082890/Section_fhsczm.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762082891/board_kqx9sd.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762082893/1-2_zj67ia.jpg",
+                "caption": "Optional caption",
+                "position": "end"
+            }
+        ]
+    }
+}
+

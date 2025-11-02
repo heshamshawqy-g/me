@@ -1,0 +1,61 @@
+{
+    "id": 21,
+    "title": "Istiqama Mosque",
+    "year": 2018,
+    "description": "A digitally adaptive mosque that embodies steadfast faith through responsive form, dynamic skin, and computational design. @UDAAR",
+    "timestamp": "December '18",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762087318/Board_15_zyrgne.jpg",
+    "content": {
+        "paragraphs": [
+            "",
+            "The Istiqama Mosque is envisioned as a spiritual and architectural embodiment of the Quranic principle of steadfastness, remaining aligned with the straight path. The project seeks to translate this divine message into spatial and architectural form, where belief and conduct converge in a built environment that guides worshippers from physical practice to spiritual ascension. Beyond its symbolic meaning, the mosque is designed as a dynamic and adaptive space, integrating computational design strategies to optimize environmental performance, spatial flexibility, and user experience across different prayer times and seasonal conditions.",
+            "The generative form of the mosque emerges through computational simulations that model circulation, prayer alignment, and spatial flow. Agent-based modeling is employed to simulate the movement of worshippers during daily prayers, Jumaa gatherings, and Eid celebrations, ensuring that the geometry of the mosque responds to real patterns of congregation and dispersal. This digital form-finding process allows the architecture to evolve as a responsive system, where the geometry is not imposed but discovered through the interaction of agents, environmental forces, and programmatic needs, resulting in a form that is both symbolic and performative.",
+            "The mosque’s skin system is conceived as a digitally controlled, adaptive envelope that mediates between interior spirituality and exterior context. Horizontal louvers, retractable shading devices, and rotational glass walls are parametrically designed to respond to solar exposure, daylighting needs, and thermal comfort. Through computational control, the façade reconfigures itself according to prayer times, seasonal variations, and user density, creating a living skin that embodies the principle of Istiqama—steadfast yet flexible. This responsive envelope not only enhances environmental performance but also reinforces the spiritual narrative of alignment, adaptability, and continuity between the sacred interior and the surrounding world."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762087318/Board_15_zyrgne.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762087317/diagram-01_dvy6d6.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762087319/diagram-02_u1k1tq.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762087317/03_nn6buy.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762087316/04_qaqvlv.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762087319/Board_10_vasnsv.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762087522/Board_02_m7tuna.png",
+                "caption": "Optional caption",
+                "position": "end"
+            }
+        ]
+    }
+}
+

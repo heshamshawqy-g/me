@@ -1,0 +1,53 @@
+{
+    "id": 23,
+    "title": "QID Complex",
+    "year": 2023,
+    "description": "Real-time mesh adaptation and tiling algorithms drive the generative design of tensile roof membranes for the QID Complex. @Grimshaw",
+    "timestamp": "March '23",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1762102244/V-01_t0hplx.mp4",
+    "content": {
+        "paragraphs": [
+            "",
+            "The QID Complex roof design was developed through a computational form-finding process that rationalized tensile membrane structures across the mixed-use masterplan. By employing complex network and tiling algorithms, combined with mesh relaxation techniques, the design team generated fluid, funnel-like roof membranes that adapt in real time to obstacles within the site. This generative workflow not only accelerated the design process but also ensured that the tensile elements were structurally efficient, visually cohesive, and seamlessly integrated with the towers, creating a dynamic architectural language that unifies the complex."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762102248/image10_urimwu.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1762102244/V-02_thggrz.mp4",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1762102244/V-01_t0hplx.mp4",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1762102243/V-03_obameg.mp4",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762102243/image4_lda9nx.png",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762102243/image_77_fbml52.png",
+                "caption": "Optional caption",
+                "position": "end"
+            }
+        ]
+    }
+}
+
