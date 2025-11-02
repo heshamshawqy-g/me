@@ -4,7 +4,7 @@
     "year": 2020,
     "description": "Defferential growth and particles system simulation @IAAC",
     "timestamp": "Nov '20",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_800,f_auto,q_auto/v1761938536/growth_wtk9xz.mp4",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761938536/growth_wtk9xz.mp4",
     "content": {
         "paragraphs": [
             "",
@@ -16,58 +16,59 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761937607/image152_gftwir.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761937607/image152_gftwir.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "video",
-                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1761938536/growth_wtk9xz.mp4",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761938536/growth_wtk9xz.mp4",
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "gif",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761937617/it02a-1_umdzb1.gif",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761937617/it02a-1_umdzb1.gif",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761937622/04-2_sthywb.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761937622/04-2_sthywb.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761937593/image138_matg84.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761937593/image138_matg84.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761937595/10-3_oc8n3d.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761937595/10-3_oc8n3d.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761937599/image143_ahsame.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761937599/image143_ahsame.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761939011/image151_cpegsl.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761939011/image151_cpegsl.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761937606/image153_l0vwu2.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761937606/image153_l0vwu2.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             }
         ]
     }
 }
+

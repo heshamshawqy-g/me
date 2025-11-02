@@ -4,7 +4,7 @@
     "year": 2017,
     "description": "Peeling Histories, Leaping Futures: Generative Design Systems for Multi‑Layered Surfaces @Unii",
     "timestamp": "September '17",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_800,f_auto,q_auto/v1762051017/06-NIGHT_shot_qamppc.jpg",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762051017/06-NIGHT_shot_qamppc.jpg",
     "content": {
         "paragraphs": [
             "",
@@ -15,46 +15,48 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762051017/06-NIGHT_shot_qamppc.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762051017/06-NIGHT_shot_qamppc.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762051017/15-Form_Generation_cj1m6d.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762051017/15-Form_Generation_cj1m6d.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762051017/20-Elements_slmzq7.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762051017/20-Elements_slmzq7.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762051017/16-Sequentional_Sections_woxdhy.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762051017/16-Sequentional_Sections_woxdhy.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762051017/18-Environmental_lyc3qe.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762051017/18-Environmental_lyc3qe.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762051017/17-Pattern_2_oi5lar.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762051017/17-Pattern_2_oi5lar.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
+            
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762051572/image_54_r1l2ho.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762051572/image_54_r1l2ho.png",
                 "caption": "Optional caption",
                 "position": "end"
             }
         ]
     }
 }
+

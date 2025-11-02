@@ -4,7 +4,7 @@
     "year": 2020,
     "description": "Genetic optimization and minimal surfaces explorations @IAAC",
     "timestamp": "Nov '22",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_800,f_auto,q_auto/v1761949451/image_u3ju4h.png",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949451/image_u3ju4h.png",
     "content": {
         "paragraphs": [
             "",
@@ -17,70 +17,71 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761949451/image_u3ju4h.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949451/image_u3ju4h.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761949613/2025-10-31_22_26_06-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_p9rfqc.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949613/2025-10-31_22_26_06-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_p9rfqc.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761949458/2025-10-31_22_06_32-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_yk56gd.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949458/2025-10-31_22_06_32-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_yk56gd.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761949461/2025-10-31_22_06_04-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_gpox75.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949461/2025-10-31_22_06_04-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_gpox75.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761949462/2025-10-31_22_05_34-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_z8ffgh.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949462/2025-10-31_22_05_34-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_z8ffgh.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761949465/2025-10-31_22_10_09-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_t9nqzl.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949465/2025-10-31_22_10_09-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_t9nqzl.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761949467/2025-10-31_22_10_51-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_ponqjy.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949467/2025-10-31_22_10_51-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_ponqjy.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761949456/2025-10-31_22_09_13-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_yawqro.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949456/2025-10-31_22_09_13-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_yawqro.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-4"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761949441/Panels2_xhccqg.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949441/Panels2_xhccqg.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-4"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761949441/Panels_suppst.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949441/Panels_suppst.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-4"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761949451/image_2_m9wiud.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761949451/image_2_m9wiud.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-4"
             }
         ]
     }
 }
+

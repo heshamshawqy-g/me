@@ -4,7 +4,7 @@
     "year": 2019,
     "description": "Parametric Documentation of Al‑Masjid Al‑Nabawi-Tracing Architectural Evolution Through Advanced Geometry Modeling @UDAAR",
     "timestamp": "August '19",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_800,f_auto,q_auto/v1762043523/image_33_s7wgly.png",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043523/image_33_s7wgly.png",
     "content": {
         "paragraphs": [
             "",
@@ -15,58 +15,59 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762043523/image_33_s7wgly.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043523/image_33_s7wgly.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762043531/14_-%D9%82%D8%B7%D8%A7%D8%B9_%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%8A_%D9%84%D9%84%D9%85%D8%B3%D8%AC%D8%AF_tgfjls.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043531/14_-%D9%82%D8%B7%D8%A7%D8%B9_%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%8A_%D9%84%D9%84%D9%85%D8%B3%D8%AC%D8%AF_tgfjls.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762043540/02-_%D9%84%D9%82%D8%B7%D8%A9_%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%8A%D8%A9_%D9%84%D9%85%D8%B3%D9%85%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%A3%D8%AC%D8%B2%D8%A7%D8%A1_%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%84%D9%81%D8%A9_%D9%84%D9%84%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A_%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81_u9qnbg.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043540/02-_%D9%84%D9%82%D8%B7%D8%A9_%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%8A%D8%A9_%D9%84%D9%85%D8%B3%D9%85%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%A3%D8%AC%D8%B2%D8%A7%D8%A1_%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%84%D9%81%D8%A9_%D9%84%D9%84%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A_%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81_u9qnbg.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762043517/08-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9_%D9%84%D9%84%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A_%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81_habhu7.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043517/08-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9_%D9%84%D9%84%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A_%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81_habhu7.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762043537/03_-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A_%D9%84%D8%A8%D9%88%D8%A7%D8%A8%D8%A9_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85_%D8%AE%D9%84%D8%A7%D9%84_%D8%A7%D9%84%D8%AD%D9%82%D8%A8_%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%84%D9%81%D8%A9_%D9%84%D9%84%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A_%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81_tabvby.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043537/03_-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A_%D9%84%D8%A8%D9%88%D8%A7%D8%A8%D8%A9_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85_%D8%AE%D9%84%D8%A7%D9%84_%D8%A7%D9%84%D8%AD%D9%82%D8%A8_%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%84%D9%81%D8%A9_%D9%84%D9%84%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A_%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81_tabvby.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762043543/05-%D9%82%D8%B7%D8%A7%D8%B9_%D8%AB%D9%84%D8%A7%D8%AB%D9%8A_%D8%A7%D9%84%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF_%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D9%82%D8%A8%D8%A9_%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1_c2fvrj.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043543/05-%D9%82%D8%B7%D8%A7%D8%B9_%D8%AB%D9%84%D8%A7%D8%AB%D9%8A_%D8%A7%D9%84%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF_%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D9%82%D8%A8%D8%A9_%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1_c2fvrj.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762043534/image_34_cnnske.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043534/image_34_cnnske.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762043526/CeilingMaterials_oihmhx.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043526/CeilingMaterials_oihmhx.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762043546/5_edcbyt.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762043546/5_edcbyt.jpg",
                 "caption": "Optional caption",
                 "position": "end"
             }
         ]
     }
 }
+

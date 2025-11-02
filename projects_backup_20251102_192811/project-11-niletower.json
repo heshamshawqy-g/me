@@ -4,7 +4,7 @@
     "year": 2017,
     "description": "Generative residential tower design that optimizes Nile views through parametric geometry @Unii, Cairo",
     "timestamp": "July '21",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_800,f_auto,q_auto/v1762034270/image129_izly0i.jpg",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762034270/image129_izly0i.jpg",
     "content": {
         "paragraphs": [
             "",
@@ -15,46 +15,47 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762034270/image129_izly0i.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762034270/image129_izly0i.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762034274/Diagram-01_wxaw53.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762034274/Diagram-01_wxaw53.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762034283/image128_j6qip2.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762034283/image128_j6qip2.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762034279/image130_gb5zq4.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762034279/image130_gb5zq4.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762034295/05_nczsty.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762034295/05_nczsty.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762034276/image131_qwd51q.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762034276/image131_qwd51q.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762034288/image_22_mpw0to.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762034288/image_22_mpw0to.png",
                 "caption": "Optional caption",
                 "position": "end"
             }
         ]
     }
 }
+

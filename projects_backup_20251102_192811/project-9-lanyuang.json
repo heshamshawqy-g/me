@@ -4,7 +4,7 @@
     "year": 2022,
     "description": "Tiling systems, weaving layers, parametric design @A_A& Design, Hong Kong",
     "timestamp": "Feb '22",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_800,f_auto,q_auto/v1762027379/Picture8_gzcg3c.gif",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762027379/Picture8_gzcg3c.gif",
     "content": {
         "paragraphs": [
             "",
@@ -15,52 +15,53 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762027371/image_18_napohn.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762027371/image_18_napohn.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "gif",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762027379/Picture8_gzcg3c.gif",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762027379/Picture8_gzcg3c.gif",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762027364/2025-11-01_19_38_58-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_kmf769.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762027364/2025-11-01_19_38_58-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_kmf769.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762027356/3D-Section_kb5cby.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762027356/3D-Section_kb5cby.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762027370/2025-11-01_19_23_35-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_gz3eoc.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762027370/2025-11-01_19_23_35-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_gz3eoc.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762027359/2025-11-01_19_38_48-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_maxbz6.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762027359/2025-11-01_19_38_48-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_maxbz6.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762027357/Picture9_jgvipt.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762027357/Picture9_jgvipt.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762027377/image_20_q8mnxf.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762027377/image_20_q8mnxf.png",
                 "caption": "Optional caption",
                 "position": "end"
             }
         ]
     }
 }
+

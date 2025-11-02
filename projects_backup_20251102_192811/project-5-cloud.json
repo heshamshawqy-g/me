@@ -4,7 +4,7 @@
     "year": 2021,
     "description": "Web geometry configurators @IAAC",
     "timestamp": "June '21",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_800,f_auto,q_auto/v1761946199/Configs_avfzih.mp4",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761946199/Configs_avfzih.mp4",
     "content": {
         "paragraphs": [
             "",
@@ -13,16 +13,17 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761946194/image214_ugj6na.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761946194/image214_ugj6na.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "video",
-                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1761946199/Configs_avfzih.mp4",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761946199/Configs_avfzih.mp4",
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             }
         ]
     }
 }
+

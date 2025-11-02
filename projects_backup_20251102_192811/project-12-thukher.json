@@ -4,7 +4,7 @@
     "year": 2020,
     "description": "The Thukher project transforms complex skin into efficient, standardized panels @Archi-Heaven, Dubai",
     "timestamp": "July '21",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_800,f_auto,q_auto/v1762036691/image96_kflzuf.jpg",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762036691/image96_kflzuf.jpg",
     "content": {
         "paragraphs": [
             "",
@@ -15,52 +15,53 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762036691/image96_kflzuf.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762036691/image96_kflzuf.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762036191/image_24_l2t1fy.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762036191/image_24_l2t1fy.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762036859/2025-11-01_22_38_40-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_bzsdar.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762036859/2025-11-01_22_38_40-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_bzsdar.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762036179/image101_cirnfs.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762036179/image101_cirnfs.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762036203/image99_oagtc7.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762036203/image99_oagtc7.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762036860/2025-11-01_22_39_02-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_feetwn.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762036860/2025-11-01_22_39_02-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_feetwn.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762037690/1.37.1_1.37.1_djbdob.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762037690/1.37.1_1.37.1_djbdob.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762036193/image_26_c7uzm6.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762036193/image_26_c7uzm6.png",
                 "caption": "Optional caption",
                 "position": "end"
             }
         ]
     }
 }
+

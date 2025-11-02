@@ -4,7 +4,7 @@
     "year": 2018,
     "description": "Spatial Punctured, Agent-Based Morphologies for Compact Living @UDAAR",
     "timestamp": "November '18",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_800,f_auto,q_auto/v1762082892/image_66_uguxjf.png",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762082892/image_66_uguxjf.png",
     "content": {
         "paragraphs": [
             "",
@@ -15,46 +15,47 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762082892/image_66_uguxjf.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762082892/image_66_uguxjf.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762082891/form-finding_llwvrf.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762082891/form-finding_llwvrf.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762082892/board-02_cuzx85.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762082892/board-02_cuzx85.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762082891/diagram-02_tsd6qv.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762082891/diagram-02_tsd6qv.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762082890/Section_fhsczm.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762082890/Section_fhsczm.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762082891/board_kqx9sd.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762082891/board_kqx9sd.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762082893/1-2_zj67ia.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762082893/1-2_zj67ia.jpg",
                 "caption": "Optional caption",
                 "position": "end"
             }
         ]
     }
 }
+

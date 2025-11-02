@@ -4,7 +4,7 @@
     "year": 2017,
     "description": "Circular Dynamics: Physics‑Driven Form and Hexagonal Panelization in Stadium Design @Unii",
     "timestamp": "November '17",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_800,f_auto,q_auto/v1762052429/05_ksafis.jpg",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762052429/05_ksafis.jpg",
     "content": {
         "paragraphs": [
             "",
@@ -15,40 +15,41 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762052429/05_ksafis.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762052429/05_ksafis.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762052429/06_olrcvk.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762052429/06_olrcvk.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762052429/VIEWS_xsmytz.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762052429/VIEWS_xsmytz.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762052429/SPORTS_TEMPLATE_005_i9icks.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762052429/SPORTS_TEMPLATE_005_i9icks.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762052835/01_tpyssr.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762052835/01_tpyssr.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762052429/image_55_itgv58.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762052429/image_55_itgv58.png",
                 "caption": "Optional caption",
                 "position": "end"
             }
         ]
     }
 }
+

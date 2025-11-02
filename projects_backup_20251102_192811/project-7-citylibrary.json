@@ -4,7 +4,7 @@
     "year": 2022,
     "description": "Urban mining using computer vision techniques",
     "timestamp": "Nov '22",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_800,f_auto,q_auto/v1761953338/v-03_tzernp.mp4",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761953338/v-03_tzernp.mp4",
     "content": {
         "paragraphs": [
             "",
@@ -17,58 +17,59 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761953332/image242_szfcw2.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761953332/image242_szfcw2.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761953339/2025-10-31_23_27_08-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_o8jtqo.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761953339/2025-10-31_23_27_08-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_o8jtqo.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761953332/image243_cs34kv.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761953332/image243_cs34kv.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761953331/image254_fcox9y.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761953331/image254_fcox9y.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761953331/image255_ewjw4a.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761953331/image255_ewjw4a.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "video",
-                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1761953338/v-03_tzernp.mp4",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761953338/v-03_tzernp.mp4",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "video",
-                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1761953339/v-02_byferf.mp4",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761953339/v-02_byferf.mp4",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "video",
-                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1761953341/v-01_x7e2me.mp4",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761953341/v-01_x7e2me.mp4",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761953335/2022-07-13_22_08_20-Window_llthao.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761953335/2022-07-13_22_08_20-Window_llthao.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-4"
             }
         ]
     }
 }
+

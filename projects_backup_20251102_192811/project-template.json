@@ -1,0 +1,42 @@
+{
+    "id": 0,
+    "title": "Project Title",
+    "year": 2024,
+    "description": "Short description",
+    "timestamp": "Mon 'YY",
+    "previewImage": "https://link-to-preview-image.jpg",
+    "content": {
+        "paragraphs": [
+            "First paragraph introducing the project...",
+            "Second paragraph about your approach...",
+            "Third paragraph about results..."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "path/to/image.jpg",
+                "caption": "Optional caption",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "video",
+                "src": "path/to/video.mp4",
+                "caption": "Optional caption",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "gif",
+                "src": "path/to/animation.gif",
+                "caption": "Optional caption",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "path/to/final-image.jpg",
+                "caption": "Optional caption",
+                "position": "end"
+            }
+        ]
+    }
+}
+

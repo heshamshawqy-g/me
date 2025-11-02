@@ -4,7 +4,7 @@
     "year": 2020,
     "description": "Geometry Rationalization and Optimization for a multimodal bridge @Archi-Heaven, Saudi Arabia",
     "timestamp": "Feb '20",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_800,f_auto,q_auto/v1762039990/image_29_wut5u1.png",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762039990/image_29_wut5u1.png",
     "content": {
         "paragraphs": [
             "",
@@ -15,46 +15,47 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762039990/image_29_wut5u1.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762039990/image_29_wut5u1.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "video",
-                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1762039939/V-01_tbxl78.mp4",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1762039939/V-01_tbxl78.mp4",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762039979/image108_f1fokf.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762039979/image108_f1fokf.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762039996/image110_bdmawx.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762039996/image110_bdmawx.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762039984/image109_ktuihb.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762039984/image109_ktuihb.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762040705/2025-11-01_23_42_30-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_bbyijx.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762040705/2025-11-01_23_42_30-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_bbyijx.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762039992/image_28_zi9oxo.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762039992/image_28_zi9oxo.png",
                 "caption": "Optional caption",
                 "position": "end"
             }
         ]
     }
 }
+

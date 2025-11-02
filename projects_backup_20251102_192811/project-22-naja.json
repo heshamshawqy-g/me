@@ -4,7 +4,7 @@
     "year": 2020,
     "description": "Mathematical tiling as a luminous ceiling, guiding worshippers into a state of serenity",
     "timestamp": "December '20",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_800,f_auto,q_auto/v1762089545/d5484b149433283.62e7c72986858_oc2csf.jpg",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762089545/d5484b149433283.62e7c72986858_oc2csf.jpg",
     "content": {
         "paragraphs": [
             "",
@@ -15,46 +15,47 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762089545/d5484b149433283.62e7c72986858_oc2csf.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762089545/d5484b149433283.62e7c72986858_oc2csf.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762089545/form-finding_il9kkr.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762089545/form-finding_il9kkr.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762089545/de9328149433283.62e7c728e5837_gthiug.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762089545/de9328149433283.62e7c728e5837_gthiug.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762089545/7864a1149433283.62e7c729873d4_q5e5mi.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762089545/7864a1149433283.62e7c729873d4_q5e5mi.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762089545/roof_04_v7duqp.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762089545/roof_04_v7duqp.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762090090/a67bec149433283.62e7c728e46fe_gdddtu.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762090090/a67bec149433283.62e7c728e46fe_gdddtu.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762089545/c0a0ae149433283.62e7c7298866e_xwtnpp.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762089545/c0a0ae149433283.62e7c7298866e_xwtnpp.jpg",
                 "caption": "Optional caption",
                 "position": "end"
             }
         ]
     }
 }
+

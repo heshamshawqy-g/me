@@ -4,7 +4,7 @@
     "year": 2022,
     "description": "Parametric lighting installation that merges geometrical art, CNC fabrication, and artificial illumination",
     "timestamp": "March '22",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_800,f_auto,q_auto/v1762032684/V-03_nmwse9.mp4",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1762032684/V-03_nmwse9.mp4",
     "content": {
         "paragraphs": [
             "",
@@ -15,52 +15,53 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762030420/image134_yw6fmt.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762030420/image134_yw6fmt.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "video",
-                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1762032684/V-03_nmwse9.mp4",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1762032684/V-03_nmwse9.mp4",
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762032102/Patterns_vsa2v0.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762032102/Patterns_vsa2v0.png",
                 "caption": "Optional caption",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762030407/image135_jpjopj.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762030407/image135_jpjopj.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762030415/image136_thtyoh.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762030415/image136_thtyoh.jpg",
                 "caption": "Optional caption",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "video",
-                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1762030411/V-01_zx5q9c.mp4",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1762030411/V-01_zx5q9c.mp4",
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "video",
-                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1762031205/V-02_sph3ck.mp4",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1762031205/V-02_sph3ck.mp4",
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762030413/image134_jv0jhx.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762030413/image134_jv0jhx.jpg",
                 "caption": "Optional caption",
                 "position": "end"
             }
         ]
     }
 }
+
