@@ -205,6 +205,18 @@ async function loadProjects() {
                 // Cache the full project data
                 projectCache[projectData.id] = projectData;
                 
+                // Get first media image for background
+                let firstMediaImage = projectData.previewImage; // fallback
+                if (projectData.content && projectData.content.media && projectData.content.media.length > 0) {
+                    // Find first image or gif in media array
+                    const firstImage = projectData.content.media.find(m => 
+                        m.type === 'image' || m.type === 'gif'
+                    );
+                    if (firstImage) {
+                        firstMediaImage = firstImage.src;
+                    }
+                }
+                
                 // Return basic info for the list
                 return {
                     id: projectData.id,
@@ -212,7 +224,8 @@ async function loadProjects() {
                     year: projectData.year,
                     description: projectData.description,
                     timestamp: projectData.timestamp,
-                    previewImage: projectData.previewImage
+                    previewImage: projectData.previewImage,
+                    backgroundImage: firstMediaImage
                 };
             } catch (error) {
                 console.error(`Error loading ${filePath}:`, error);
@@ -260,10 +273,17 @@ function renderProjects() {
         projectItem.className = 'project-item';
         projectItem.dataset.projectId = project.id;
         
+        // Set background image if available
+        if (project.backgroundImage) {
+            projectItem.style.backgroundImage = `url('${project.backgroundImage}')`;
+        }
+        
         projectItem.innerHTML = `
-            <div class="project-title">${project.title}</div>
-            <div class="project-year">${project.year}</div>
-            <div class="project-description">${project.description}</div>
+            <div class="project-content-wrapper">
+                <div class="project-title">${project.title}</div>
+                <div class="project-year">${project.year}</div>
+                <div class="project-description">${project.description}</div>
+            </div>
         `;
         
         // Click: Show full content (no hover behavior)
