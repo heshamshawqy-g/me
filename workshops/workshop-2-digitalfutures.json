@@ -4,7 +4,7 @@
     "year": 2023,
     "description": "Beyond Static – Exploring Machine Learning for Adaptive Geometries in Expandable Structures @Digital Futures with Esther Rubio",
     "timestamp": "July '23",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926630/00_hcc6m9.jpg",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_800,f_auto,q_auto/v1763926630/00_hcc6m9.jpg",
     "content": {
         "paragraphs": [
             "",
@@ -15,65 +15,64 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926630/00_hcc6m9.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926630/00_hcc6m9.jpg",
                 "caption": "Workshop overview or key visual",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926599/Picture13_bqnyct.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926599/Picture13_bqnyct.png",
                 "caption": "Workshop process or methodology",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926597/NT_01_wled1z.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926597/NT_01_wled1z.jpg",
                 "caption": "Workshop process or methodology",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763924774/Picture4_fkdhcd.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763924774/Picture4_fkdhcd.png",
                 "caption": "Workshop process or methodology",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926602/NT_15_unyqbk.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926602/NT_15_unyqbk.jpg",
                 "caption": "Workshop process or methodology",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926599/Picture3_igdync.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926599/Picture3_igdync.png",
                 "caption": "Workshop process or methodology",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763924773/Picture11_ywcfuo.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763924773/Picture11_ywcfuo.png",
                 "caption": "Workshop process or methodology",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763924772/Picture12_kk5d6v.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763924772/Picture12_kk5d6v.png",
                 "caption": "Workshop process or methodology",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763924779/Picture2_y91rko.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763924779/Picture2_y91rko.jpg",
                 "caption": "Workshop process or methodology",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926588/Picture14_zwxrml.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926588/Picture14_zwxrml.png",
                 "caption": "Workshop results or outcomes",
                 "position": "end"
             }
         ]
     }
 }
-

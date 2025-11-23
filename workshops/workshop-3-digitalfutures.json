@@ -4,7 +4,7 @@
     "year": 2021,
     "description": "Houdini Generative Design Workshop with Felipe Romero and James McBennett",
     "timestamp": "November '21",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926623/WK2_z5ir80.jpg",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_800,f_auto,q_auto/v1763926623/WK2_z5ir80.jpg",
     "content": {
         "paragraphs": [
             "",
@@ -15,65 +15,64 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926623/WK2_z5ir80.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926623/WK2_z5ir80.jpg",
                 "caption": "Workshop results",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "video",
-                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761938536/growth_wtk9xz.mp4",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1761938536/growth_wtk9xz.mp4",
                 "caption": "Workshop process and methodology",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926625/WK_jkvl15.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926625/WK_jkvl15.jpg",
                 "caption": "Workshop results",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926627/WK3_meuxa0.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926627/WK3_meuxa0.jpg",
                 "caption": "Workshop results",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926628/WK6_buluaz.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926628/WK6_buluaz.jpg",
                 "caption": "Workshop results",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926594/WK27_lnnwtv.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926594/WK27_lnnwtv.jpg",
                 "caption": "Workshop results",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926601/WK12_hibrqp.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926601/WK12_hibrqp.jpg",
                 "caption": "Workshop results",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763924791/WK28_u2lbbh.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763924791/WK28_u2lbbh.jpg",
                 "caption": "Workshop results",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763924784/WK35_f2xeu8.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763924784/WK35_f2xeu8.jpg",
                 "caption": "Workshop results",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1/example-results.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1/example-results.jpg",
                 "caption": "Workshop results",
                 "position": "end"
             }
         ]
     }
 }
-

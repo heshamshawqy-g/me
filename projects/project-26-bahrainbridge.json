@@ -2,10 +2,13 @@
     "id": 26,
     "title": "BAH Bridge",
     "year": 2022,
-    "categories": ["Form Finding", "Tessellation Systems"],
+    "categories": [
+        "Form Finding",
+        "Tessellation Systems"
+    ],
     "description": "Pedestrian mobility components, a gateway to Bahrain",
     "timestamp": "June '22",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891175/Generated_Image_November_21_2025_-_8_40PM_msamyv.jpg",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_800,f_auto,q_auto/v1763891175/Generated_Image_November_21_2025_-_8_40PM_msamyv.jpg",
     "content": {
         "paragraphs": [
             "",
@@ -16,49 +19,49 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891175/Generated_Image_November_21_2025_-_8_40PM_msamyv.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763891175/Generated_Image_November_21_2025_-_8_40PM_msamyv.jpg",
                 "caption": "Aerial view showing the pedestrian bridge in context",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891175/Generated_Image_November_21_2025_-_9_05PM_d2hssb.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763891175/Generated_Image_November_21_2025_-_9_05PM_d2hssb.jpg",
                 "caption": "Sectional study of the bridge mobility",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891176/OPT01_C_wsotcw.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763891176/OPT01_C_wsotcw.jpg",
                 "caption": "The bridge lattice structure and passive shading system",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891176/OPT01_B_churaq.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763891176/OPT01_B_churaq.jpg",
                 "caption": "Aerial study of the bridge components",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891175/OPT01_A_jl9xot.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763891175/OPT01_A_jl9xot.jpg",
                 "caption": "Layout study of the bridge route",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891176/OPT02_A_hhamzz.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763891176/OPT02_A_hhamzz.jpg",
                 "caption": "Layout study of the observatory towers",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891175/Generated_Image_November_21_2025_-_9_13PM_rqwl86.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763891175/Generated_Image_November_21_2025_-_9_13PM_rqwl86.jpg",
                 "caption": "Elevation view of the observatory tower structure",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891175/Generated_Image_November_21_2025_-_9_11PM_x59jgn.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763891175/Generated_Image_November_21_2025_-_9_11PM_x59jgn.jpg",
                 "caption": "Elevation study and the form layers",
                 "position": "end"
             }

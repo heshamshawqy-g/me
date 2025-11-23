@@ -2,7 +2,10 @@
     "id": 1,
     "title": "OXA Bridges",
     "year": 2023,
-    "categories": ["Design Development", "Form Finding"],
+    "categories": [
+        "Design Development",
+        "Form Finding"
+    ],
     "description": "A computationally driven bridge network through modular design, geometry rationalization, and seamless BIM interoperability @Grimshaw",
     "timestamp": "Oct '23",
     "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761920974/OXA_04_SINE_qecq8k.gif",
@@ -22,7 +25,7 @@
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761922158/202_02-42-39-2708_eaitsh.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761922158/202_02-42-39-2708_eaitsh.png",
                 "caption": "Pedestrian paths slope rationalization",
                 "position": "after-paragraph-1"
             },

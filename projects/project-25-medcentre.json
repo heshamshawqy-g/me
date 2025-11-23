@@ -2,10 +2,12 @@
     "id": 25,
     "title": "MED Centre",
     "year": 2024,
-    "categories": ["Tessellation Systems"],
+    "categories": [
+        "Tessellation Systems"
+    ],
     "description": "Generative tesselation systems",
     "timestamp": "June '24",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763890923/Pattern_Study-2_laxxva.mp4",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_800,f_auto,q_auto/v1763890923/Pattern_Study-2_laxxva.mp4",
     "content": {
         "paragraphs": [
             "",
@@ -16,25 +18,25 @@
         "media": [
             {
                 "type": "video",
-                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763890923/Pattern_Study-2_laxxva.mp4",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1763890923/Pattern_Study-2_laxxva.mp4",
                 "caption": "Generative system study",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763890921/patterns_j03riv.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763890921/patterns_j03riv.png",
                 "caption": "Tessellation patterns variations",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763890921/Generated_Image_November_23_2025_-_9_27AM_1_cg0ubx.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763890921/Generated_Image_November_23_2025_-_9_27AM_1_cg0ubx.jpg",
                 "caption": "Elevation view",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763890921/Generated_Image_November_23_2025_-_9_29AM_haygbj.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763890921/Generated_Image_November_23_2025_-_9_29AM_haygbj.jpg",
                 "caption": "Perspective view",
                 "position": "end"
             }

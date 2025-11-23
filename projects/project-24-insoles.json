@@ -2,10 +2,13 @@
     "id": 24,
     "title": "Parametric Insoles",
     "year": 2021,
-    "categories": ["Machine Learning", "Web Applications"],
+    "categories": [
+        "Machine Learning",
+        "Web Applications"
+    ],
     "description": "Point cloud analysis and automation for parametric insoles",
     "timestamp": "June '21",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763891402/02_cehkty.mp4",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_800,f_auto,q_auto/v1763891402/02_cehkty.mp4",
     "content": {
         "paragraphs": [
             "",
@@ -16,37 +19,37 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891401/00_s7qy2z.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763891401/00_s7qy2z.jpg",
                 "caption": "Analysis space",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "video",
-                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763891403/01_tufpnb.mp4",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1763891403/01_tufpnb.mp4",
                 "caption": "A sample of the point cloud data",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "video",
-                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763891402/02_cehkty.mp4",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1763891402/02_cehkty.mp4",
                 "caption": "Point cloud analysis",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "video",
-                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763891403/03_cjcsl7.mp4",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1763891403/03_cjcsl7.mp4",
                 "caption": "Point cloud orientation",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "video",
-                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763891401/04_jds5id.mp4",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1763891401/04_jds5id.mp4",
                 "caption": "Mesh dimensions generation, csv data export",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891404/insole_pncarl.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763891404/insole_pncarl.jpg",
                 "caption": "Insole design sample",
                 "position": "end"
             }

@@ -2,10 +2,12 @@
     "id": 27,
     "title": "Site Fit Planner",
     "year": 2024,
-    "categories": ["Web Applications"],
+    "categories": [
+        "Web Applications"
+    ],
     "description": "Site fit planner for urban planning and development based on governmental social and economic metrics @Grimshaw",
     "timestamp": "August '24",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763891237/V-02_jx8s8o.mp4",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_800,f_auto,q_auto/v1763891237/V-02_jx8s8o.mp4",
     "content": {
         "paragraphs": [
             "",
@@ -16,43 +18,43 @@
         "media": [
             {
                 "type": "video",
-                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763891237/V-02_jx8s8o.mp4",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1763891237/V-02_jx8s8o.mp4",
                 "caption": "Site performance and isochrone walkability analysis",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891238/image_76_ee7rud.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763891238/image_76_ee7rud.png",
                 "caption": "User interface of the site fit planner",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891235/900_09_-_DT___SiteFit_Planner_-_Frame_2_ndjlir.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763891235/900_09_-_DT___SiteFit_Planner_-_Frame_2_ndjlir.jpg",
                 "caption": "Project framework and data flow",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891235/image_74_niwpcp.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763891235/image_74_niwpcp.png",
                 "caption": "Scotland data zones clustering",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891237/image_75_axnmwf.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763891237/image_75_axnmwf.png",
                 "caption": "Scotland regional data zones clustering",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "video",
-                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763891236/V-03_dh0oiz.mp4",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1763891236/V-03_dh0oiz.mp4",
                 "caption": "User scenario A, using the tool to query site scores",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "video",
-                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763891236/V-04_nxlba7.mp4",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1763891236/V-04_nxlba7.mp4",
                 "caption": "User scenario B, using the adjust the weights of the scoring system",
                 "position": "end"
             }

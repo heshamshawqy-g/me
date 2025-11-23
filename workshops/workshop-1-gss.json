@@ -4,7 +4,7 @@
     "year": 2024,
     "description": "Advanced Computation for Design @IAAC, with James McBennett",
     "timestamp": "2023-2024",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763924776/picture-1_co5bsy.jpg",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_800,f_auto,q_auto/v1763924776/picture-1_co5bsy.jpg",
     "content": {
         "paragraphs": [
             "",
@@ -15,65 +15,64 @@
         "media": [
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763924776/picture-1_co5bsy.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763924776/picture-1_co5bsy.jpg",
                 "caption": "Workshop overview or key visual",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926631/2025-11-23_17_40_57-Workshop_Data_-_File_Explorer_rlhggf.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926631/2025-11-23_17_40_57-Workshop_Data_-_File_Explorer_rlhggf.png",
                 "caption": "Workshop process or methodology",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926635/2025-11-23_17_41_22-Workshop_Data_-_File_Explorer_jiov5k.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926635/2025-11-23_17_41_22-Workshop_Data_-_File_Explorer_jiov5k.png",
                 "caption": "Workshop process or methodology",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926647/2025-11-23_17_41_11-Workshop_Data_-_File_Explorer_q4elwc.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926647/2025-11-23_17_41_11-Workshop_Data_-_File_Explorer_q4elwc.png",
                 "caption": "Workshop process or methodology",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926641/picture-4_j3j66p.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926641/picture-4_j3j66p.jpg",
                 "caption": "Workshop process or methodology",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926636/picture-6_jwxutw.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926636/picture-6_jwxutw.jpg",
                 "caption": "Workshop process or methodology",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926645/picture-10_hhjiqt.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926645/picture-10_hhjiqt.jpg",
                 "caption": "Workshop results or outcomes",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926648/picture-8_xbbvzs.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926648/picture-8_xbbvzs.jpg",
                 "caption": "Workshop results or outcomes",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926640/picture-7_vmu8xg.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926640/picture-7_vmu8xg.jpg",
                 "caption": "Workshop results or outcomes",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926648/picture-8_xbbvzs.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763926648/picture-8_xbbvzs.jpg",
                 "caption": "Workshop results or outcomes",
                 "position": "end"
             }
         ]
     }
 }
-

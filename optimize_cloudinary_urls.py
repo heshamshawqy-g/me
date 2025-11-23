@@ -103,27 +103,6 @@ def optimize_project_json(file_path):
     
     return changes_made
 
-def create_backup():
-    """Create a backup of all project files"""
-    backup_dir = Path('projects_backup_' + datetime.now().strftime('%Y%m%d_%H%M%S'))
-    backup_dir.mkdir(exist_ok=True)
-    
-    projects_dir = Path('projects')
-    if not projects_dir.exists():
-        print("❌ 'projects' directory not found!")
-        return None
-    
-    # Copy all JSON files to backup
-    json_files = list(projects_dir.glob('project-*.json'))
-    for file in json_files:
-        backup_file = backup_dir / file.name
-        backup_file.write_text(file.read_text(encoding='utf-8'), encoding='utf-8')
-    
-    print(f"💾 Backup created: {backup_dir}")
-    print(f"   Backed up {len(json_files)} files\n")
-    
-    return backup_dir
-
 def optimize_about_json():
     """Optimize profile image in about.json"""
     about_file = Path('about.json')
@@ -161,19 +140,10 @@ def main():
     print("=" * 60)
     
     # Check if projects directory exists
-    projects_dir = Path('projects')
-    if not projects_dir.exists():
-        print("❌ Error: 'projects' directory not found!")
-        print("   Please run this script from the project root directory.")
-        return
-    
-    # Create backup first
-    backup_dir = create_backup()
-    if not backup_dir:
-        return
+    projects_dir = Path('workshops')
     
     # Get all project JSON files
-    json_files = sorted(projects_dir.glob('project-*.json'))
+    json_files = sorted(projects_dir.glob('workshop-*.json'))
     
     if not json_files:
         print("❌ No project JSON files found!")
@@ -197,7 +167,6 @@ def main():
     print("=" * 60)
     print(f"📊 Files processed: {len(json_files) + 1}")
     print(f"📝 Files modified: {total_changed}")
-    print(f"💾 Backup location: {backup_dir}")
     print("\n💡 Your images will now load 50-80% faster!")
     print("   Cloudinary will automatically serve:")
     print("   • WebP format for Chrome/Firefox")
