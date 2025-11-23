@@ -103,6 +103,58 @@
             "category": "ML/AI"
         }
     ],
+    "conferences": [
+        {
+            "year": "2025",
+            "title": "IAAC Global Summer School 2025",
+            "description": "Computational Design Online workshop. Focusing on Python, machine learning, geometry rationalization and optimization algorithms."
+        },
+        {
+            "year": "2025",
+            "title": "Shape to Fabrication Conference 2025",
+            "description": "In person workshop in London on developing custom machine learning plugins for Rhino 8 using Cpython and open source AI models."
+        },
+        {
+            "year": "2023",
+            "title": "IAAC Global Summer School 2023",
+            "description": "Computational Design Online workshop. Introducing Python and machine learning by exploring practical applications within the architectural domain."
+        },
+        {
+            "year": "2022",
+            "title": "CAAD Futures Conference 2022",
+            "description": "What is My Plaza for? Implementing a Machine learning Strategy for Predicting the Events in the Urban Square."
+        },
+        {
+            "year": "2022",
+            "title": "IAAC Global Summer School 2022",
+            "description": "Computational Design Online workshop. Introducing Python and machine learning by exploring practical applications within the architectural domain."
+        },
+        {
+            "year": "2022",
+            "title": "Digital Futures 2022",
+            "description": "Emergent Routes is a Generative design workshop exploring a generative design approach to design a walkable network. During this session, participants got introduced to mesh manipulation, optimization, and typology."
+        },
+        {
+            "year": "2021",
+            "title": "ACADIA Conference 2021",
+            "description": "Imaginary Vessels: Machine-Learning digital dataset creation for robotic pottery fabrication."
+        },
+        {
+            "year": "2021",
+            "title": "Responsive Cities Symposium 2021",
+            "description": "Farm Scapes: Mapping possible urban farming rooftops using Machine-Learning Methodologies."
+        },
+        {
+            "year": "2021",
+            "title": "Digital Futures 2021",
+            "description": "Differential Growth Structures is a computational design workshop using HoudiniFX. During the workshop participants explored the interoperability between Rhino and Houdini."
+        },
+        {
+            "year": "2020",
+            "title": "The Architecture Summit 2020",
+            "description": "Aggregated Structures, Rhinoceros3D, Grasshopper3D"
+        }
+    ],
     "social": [
         {
             "platform": "LinkedIn",

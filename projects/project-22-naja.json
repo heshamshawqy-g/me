@@ -2,6 +2,7 @@
     "id": 22,
     "title": "Naja Mosque",
     "year": 2020,
+    "categories": ["Design Development", "Tessellation Systems"],
     "description": "Mathematical tiling as a luminous ceiling, guiding worshippers into a state of serenity",
     "timestamp": "December '20",
     "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_800,f_auto,q_auto/v1762089545/d5484b149433283.62e7c72986858_oc2csf.jpg",
@@ -51,7 +52,7 @@
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762089545/c0a0ae149433283.62e7c7298866e_xwtnpp.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763933246/c0a0ae149433283.62e7c7298866e_xwtnpp.jpg",
                 "caption": "Interior view highlighting the dramatic effect of the roof slits",
                 "position": "end"
             }

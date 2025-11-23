@@ -1,0 +1,79 @@
+{
+    "id": 3,
+    "title": "Digital Futures - Fictional Structures",
+    "year": 2021,
+    "description": "Houdini Generative Design Workshop with Felipe Romero and James McBennett",
+    "timestamp": "November '21",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926623/WK2_z5ir80.jpg",
+    "content": {
+        "paragraphs": [
+            "",
+            "Fictional Structures was an immersive workshop exploring the creative potential of digital morphologies through advanced computational tools. Participants engaged with Rhinoceros3D, Grasshopper3D, HoudiniFX, and Unreal Engine to design intricate virtual structures, combining generative simulations, parametric modeling, and real-time visualization. The workshop encouraged experimentation and interdisciplinary workflows, bridging computational design and immersive digital environments.",
+            "The curriculum began with generative simulations in Houdini, where participants learned to create complex geometric forms using particle systems, volumetric aggregations, and growth algorithms. These forms were then refined in Rhino and Grasshopper through parametric modeling techniques, including tessellation, mesh unrolling, and automated drawing generation. This iterative process allowed participants to explore interoperability between platforms and understand how algorithmic design principles can drive creative outcomes.",
+            "In the final phase, participants translated their designs into interactive virtual experiences using Unreal Engine. This step introduced real-time rendering and immersive visualization, enabling participants to experience their computational creations in a dynamic digital environment. By the end of the workshop, attendees had developed a comprehensive skill set in generative design, parametric workflows, and virtual experience creation, showcasing how computation can expand the boundaries of architectural imagination."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926623/WK2_z5ir80.jpg",
+                "caption": "Workshop results",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1761938536/growth_wtk9xz.mp4",
+                "caption": "Workshop process and methodology",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926625/WK_jkvl15.jpg",
+                "caption": "Workshop results",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926627/WK3_meuxa0.jpg",
+                "caption": "Workshop results",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926628/WK6_buluaz.jpg",
+                "caption": "Workshop results",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926594/WK27_lnnwtv.jpg",
+                "caption": "Workshop results",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926601/WK12_hibrqp.jpg",
+                "caption": "Workshop results",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763924791/WK28_u2lbbh.jpg",
+                "caption": "Workshop results",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763924784/WK35_f2xeu8.jpg",
+                "caption": "Workshop results",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1/example-results.jpg",
+                "caption": "Workshop results",
+                "position": "end"
+            }
+        ]
+    }
+}
+

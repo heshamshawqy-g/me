@@ -2,6 +2,7 @@
     "id": 2,
     "title": "Imaginary Vessels",
     "year": 2021,
+    "categories": ["Machine Learning"],
     "description": "Exploring generative design, synthetic datasets and machine learning @IAAC",
     "timestamp": "July '21",
     "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_800,f_auto,q_auto/v1761935794/Vessels_Generation_i6c42e.mp4",

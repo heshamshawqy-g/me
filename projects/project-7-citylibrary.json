@@ -2,6 +2,7 @@
     "id": 7,
     "title": "City Library",
     "year": 2022,
+    "categories": ["Machine Learning", "Web Applications"],
     "description": "Urban mining using computer vision techniques",
     "timestamp": "Nov '22",
     "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_800,f_auto,q_auto/v1761953338/v-03_tzernp.mp4",

@@ -2,6 +2,7 @@
     "id": 5,
     "title": "Cloud Scape",
     "year": 2021,
+    "categories": ["Web Applications"],
     "description": "Web geometry configurators @IAAC",
     "timestamp": "June '21",
     "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_800,f_auto,q_auto/v1761946199/Configs_avfzih.mp4",

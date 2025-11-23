@@ -1,0 +1,43 @@
+{
+    "id": 25,
+    "title": "MED Centre",
+    "year": 2024,
+    "categories": ["Tessellation Systems"],
+    "description": "Generative tesselation systems",
+    "timestamp": "June '24",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763890923/Pattern_Study-2_laxxva.mp4",
+    "content": {
+        "paragraphs": [
+            "",
+            "This project explored generative tessellation systems driven by Perlin noise to create dynamic building skins. The approach used irregular tessellation patterns that responded to digital color and brightness values, producing visually rich and adaptive surfaces.",
+            "The system analyzed these values to organize the skin geometry, allowing it to adapt to different building functions. By varying the tessellation density and pattern, the design controlled light penetration and visual texture across the façade.",
+            "As a result, the skin provided tailored lighting conditions for interior spaces while maintaining a cohesive aesthetic. This method demonstrated how computational design and generative algorithms can merge performance and expression in architectural envelopes."
+        ],
+        "media": [
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763890923/Pattern_Study-2_laxxva.mp4",
+                "caption": "Generative system study",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763890921/patterns_j03riv.png",
+                "caption": "Tessellation patterns variations",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763890921/Generated_Image_November_23_2025_-_9_27AM_1_cg0ubx.jpg",
+                "caption": "Elevation view",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763890921/Generated_Image_November_23_2025_-_9_29AM_haygbj.jpg",
+                "caption": "Perspective view",
+                "position": "end"
+            }
+        ]
+    }
+}

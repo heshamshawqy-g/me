@@ -1,0 +1,36 @@
+{
+    "id": 1,
+    "title": "Workshop Title",
+    "year": 2024,
+    "description": "Brief description of the workshop",
+    "timestamp": "Month 'YY",
+    "previewImage": "https://example.com/preview-image.jpg",
+    "content": {
+        "paragraphs": [
+            "First paragraph introducing the workshop.",
+            "Second paragraph with more details.",
+            "Third paragraph with outcomes or conclusions."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://example.com/image1.jpg",
+                "caption": "Caption for the first image",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "video",
+                "src": "https://example.com/video1.mp4",
+                "caption": "Caption for the video",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://example.com/image2.jpg",
+                "caption": "Caption for the second image",
+                "position": "end"
+            }
+        ]
+    }
+}
+

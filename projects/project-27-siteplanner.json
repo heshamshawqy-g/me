@@ -1,0 +1,61 @@
+{
+    "id": 27,
+    "title": "Site Fit Planner",
+    "year": 2024,
+    "categories": ["Web Applications"],
+    "description": "Site fit planner for urban planning and development based on governmental social and economic metrics @Grimshaw",
+    "timestamp": "August '24",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763891237/V-02_jx8s8o.mp4",
+    "content": {
+        "paragraphs": [
+            "",
+            "This project focused on creating an early-stage feasibility tool for urban planning and development, driven by governmental social and economic priorities. The platform was designed to assist stakeholders, such as Network Rail, in identifying optimal land plots for future projects. Built as a web-based solution, the system relied on data scraping from official Scottish Government sources to ensure alignment with national objectives.",
+            "The process began by collecting and structuring data from governmental surveys that outlined key social priorities, including eradicating child poverty, growing the economy, tackling the climate emergency, and ensuring high-quality public services. Using this data, the platform integrated spatial datasets, catchment analysis, and accessibility metrics to evaluate empty plots. The diagram illustrates this workflow, showing how data zones, OSM inputs, and Overpass API queries feed into a composite scoring system that ranks plots based on weighted indicators.",
+            "The result was an interactive tool that allowed users to filter and compare land plots according to predefined criteria, providing insights into return on investment and social value. By combining static and dynamic data visualization, the platform enabled stakeholders to make informed decisions quickly and confidently. This approach demonstrated how computational design and data-driven planning can support sustainable development and strategic urban growth."
+        ],
+        "media": [
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763891237/V-02_jx8s8o.mp4",
+                "caption": "Site performance and isochrone walkability analysis",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891238/image_76_ee7rud.png",
+                "caption": "User interface of the site fit planner",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891235/900_09_-_DT___SiteFit_Planner_-_Frame_2_ndjlir.jpg",
+                "caption": "Project framework and data flow",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891235/image_74_niwpcp.png",
+                "caption": "Scotland data zones clustering",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891237/image_75_axnmwf.png",
+                "caption": "Scotland regional data zones clustering",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763891236/V-03_dh0oiz.mp4",
+                "caption": "User scenario A, using the tool to query site scores",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763891236/V-04_nxlba7.mp4",
+                "caption": "User scenario B, using the adjust the weights of the scoring system",
+                "position": "end"
+            }
+        ]
+    }
+}

@@ -2,6 +2,7 @@
     "id": 23,
     "title": "QID Complex",
     "year": 2023,
+    "categories": ["Form Finding"],
     "description": "Real-time mesh adaptation and tiling algorithms drive the generative design of tensile roof membranes for the QID Complex. @Grimshaw",
     "timestamp": "March '23",
     "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_800,f_auto,q_auto/v1762102244/V-01_t0hplx.mp4",

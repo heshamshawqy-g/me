@@ -1,0 +1,109 @@
+{
+    "id": 4,
+    "title": "Complex Forming Seminar",
+    "year": 2022,
+    "description": "Digital Tools for Complex Forming – MaCAD Seminar @IAAC with James McBennett",
+    "timestamp": "2022-2025",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926614/2025-11-23_12_47_06-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_d4xsgk.png",
+    "content": {
+        "paragraphs": [
+            "",
+            "As part of the MaCAD program for 2022/25, I led the seminar “Digital Tools for Complex Forming”. The seminar was designed to strengthen students’ technical and computational skills in generating, analyzing, and manipulating complex geometries through parametric design. Using Grasshopper3D and Python, participants explored algorithmic workflows to create mathematically driven surfaces, tensile structures, voxel aggregations, recursive systems, and tessellation techniques, all applied to architectural form-finding.",
+            "The course began with mathematical surface generation, introducing parametric equations and NURBS construction to control form with precision. Students then progressed to tensile structures and minimal surfaces, learning principles of form-finding with Kangaroo. Advanced topics included voxel-based design, recursive geometries inspired by fractal logic, and swarm intelligence algorithms combined with Perlin noise to produce organic, adaptive forms. Tessellation and customizable tiling workflows were also covered, enabling participants to design intricate façade systems and modular patterns.",
+            "The seminar concluded with a final project where students synthesized these techniques into a unique architectural system, demonstrating their ability to integrate algorithmic thinking with design innovation. By mastering Python scripting, advanced Grasshopper components, and computational strategies, participants gained the skills to push the boundaries of architectural complexity and performance. This seminar emphasized experimentation, optimization, and data-driven design as essential tools for contemporary architecture."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926614/2025-11-23_12_47_06-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_d4xsgk.png",
+                "caption": "Course overview",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763926590/M-V-02_ymqsnv.mp4",
+                "caption": "Particles motion and strange attractor",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926624/2025-11-23_17_41_41-Workshop_Data_-_File_Explorer_pksram.png",
+                "caption": "Sample of the final mini-projects",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926622/2025-11-23_17_41_55-Workshop_Data_-_File_Explorer_ruhyfz.png",
+                "caption": "Sample of the weekly assignments",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926620/2025-11-23_12_45_15-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_vadogm.png",
+                "caption": "Implicit surfaces generation",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926618/2025-11-23_12_44_58-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_rzbdzy.png",
+                "caption": "Mesh voxelization",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926615/2025-11-23_12_42_34-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_qteub4.png",
+                "caption": "Parametric design space",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763926608/M-V-04_wtiavc.mp4",
+                "caption": "Tesselation morphology",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763926604/M-V-03_t9xvb1.mp4",
+                "caption": "Modular system",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926613/2025-11-23_12_44_06-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_jwr9ma.png",
+                "caption": "Tesselation morphology",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926610/2025-11-23_12_48_28-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_aomarx.png",
+                "caption": "Topological interlocking tetrahderon module",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926619/2025-11-23_12_48_52-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_rx3cay.png",
+                "caption": "Topological interlocking morphology",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763925878/V-06_bbi1ek.mp4",
+                "caption": "Topological interlocking morphology",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763924771/V-03_rh6nbm.mp4",
+                "caption": "Topological interlocking morphology",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926616/2025-11-23_12_46_46-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_p146ie.png",
+                "caption": "Inflatable structures",
+                "position": "end"
+            }
+        ]
+    }
+}
+

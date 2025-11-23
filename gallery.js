@@ -31,6 +31,11 @@ const galleryTheme = {
     }
 };
 
+// Filter state
+const CATEGORIES = ['Form Finding', 'Machine Learning', 'Tessellation Systems', 'Web Applications', 'Design Development'];
+let selectedCategory = null;
+let allProjects = [];
+
 // Initialize gallery view
 async function initGallery() {
     try {
@@ -55,8 +60,8 @@ async function initGallery() {
             }
         });
         
-        const projects = (await Promise.all(projectPromises)).filter(p => p !== null);
-        renderGallery(projects);
+        allProjects = (await Promise.all(projectPromises)).filter(p => p !== null);
+        renderGallery(allProjects);
     } catch (error) {
         console.error('Error loading gallery:', error);
         showGalleryError();
@@ -75,15 +80,22 @@ function renderGallery(projects) {
                     <span>A visual collection of all projects</span>
                 </div>
             </div>
+            <div class="gallery-filters">
+                <button class="filter-btn ${selectedCategory === null ? 'active' : ''}" data-category="all">All</button>
+                ${CATEGORIES.map(cat => 
+                    `<button class="filter-btn ${selectedCategory === cat ? 'active' : ''}" data-category="${cat}">${cat}</button>`
+                ).join('')}
+            </div>
             <div class="gallery-grid">
     `;
     
     projects.forEach(project => {
-        // Determine if preview is a video based on file extension
         const isVideo = /\.(mp4|webm|ogg|mov)$/i.test(project.previewImage);
+        const categories = project.categories || [];
+        const isVisible = selectedCategory === null || categories.includes(selectedCategory);
         
         galleryHTML += `
-            <div class="gallery-card" data-project-id="${project.id}">
+            <div class="gallery-card ${isVisible ? '' : 'hidden'}" data-project-id="${project.id}" data-categories="${categories.join(',')}">
                 <div class="gallery-card-image">
                     ${isVideo ? 
                         `<video autoplay loop muted playsinline>
@@ -118,7 +130,6 @@ function renderGallery(projects) {
             const projectId = parseInt(card.dataset.projectId);
             const project = projects.find(p => p.id === projectId);
             if (project) {
-                // Find the corresponding project item in the left panel and click it
                 const projectItem = document.querySelector(`.project-item[data-project-id="${projectId}"]`);
                 if (projectItem) {
                     projectItem.click();
@@ -127,8 +138,39 @@ function renderGallery(projects) {
         });
     });
     
-    // Add gallery styles dynamically
+    // Add filter button handlers
+    const filterBtns = document.querySelectorAll('.filter-btn');
+    filterBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            const category = btn.dataset.category;
+            selectedCategory = category === 'all' ? null : category;
+            filterGallery();
+        });
+    });
+    
     injectGalleryStyles();
+}
+
+// Filter gallery cards
+function filterGallery() {
+    const cards = document.querySelectorAll('.gallery-card');
+    const filterBtns = document.querySelectorAll('.filter-btn');
+    
+    // Update button states
+    filterBtns.forEach(btn => {
+        if (btn.dataset.category === 'all') {
+            btn.classList.toggle('active', selectedCategory === null);
+        } else {
+            btn.classList.toggle('active', selectedCategory === btn.dataset.category);
+        }
+    });
+    
+    // Filter cards
+    cards.forEach(card => {
+        const categories = card.dataset.categories.split(',').filter(c => c);
+        const isVisible = selectedCategory === null || categories.includes(selectedCategory);
+        card.classList.toggle('hidden', !isVisible);
+    });
 }
 
 // Show error message
@@ -157,12 +199,46 @@ function injectGalleryStyles() {
     const style = document.createElement('style');
     style.id = 'gallery-styles';
     style.textContent = `
+        .gallery-filters {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-top: 24px;
+        }
+        
+        .filter-btn {
+            padding: 8px 16px;
+            border: 1px solid #ddd;
+            border-radius: 20px;
+            background: #fff;
+            color: #666;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-family: ${galleryTheme.fontFamily};
+        }
+        
+        .filter-btn:hover {
+            border-color: #000;
+            color: #000;
+        }
+        
+        .filter-btn.active {
+            background: #000;
+            color: #fff;
+            border-color: #000;
+        }
+        
         .gallery-grid {
             display: grid;
             grid-template-columns: repeat(3, 1fr);
             gap: ${galleryTheme.spacing.margin};
             padding-bottom: 60px;
-            margin-top: 40px;
+            margin-top: 24px;
+        }
+        
+        .gallery-card.hidden {
+            display: none;
         }
         
         @media (max-width: 1024px) {

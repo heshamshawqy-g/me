@@ -59,7 +59,7 @@ a {
     display: flex;
     flex-direction: column;
     position: relative;
-    z-index: 20;
+    z-index: 100;
     border-right: 1px solid #f0f0f0;
     height: 100vh;
     overflow-y: auto;
@@ -71,19 +71,23 @@ a {
 .navigation {
     display: flex;
     flex-wrap: nowrap;
-    gap: clamp(3px, 1vw, 20px);
+    gap: clamp(2px, 0.6vw, 20px);
     margin-bottom: 60px;
     padding-bottom: 20px;
     padding-right: 5px;
+    position: relative;
+    z-index: 50;
 }
 
 .nav-link {
-    font-size: clamp(10px, 3vw, 24px);
+    font-size: clamp(11px, 1.4vw, 24px);
     font-weight: 500;
     color: #aaaaaa;
     transition: color 0.3s ease;
     position: relative;
     white-space: nowrap;
+    flex-shrink: 1;
+    min-width: 0;
 }
 
 .nav-link:hover,
@@ -506,15 +510,17 @@ a {
         min-width: 300px;
         max-width: 440px;
         padding: 40px 15px 40px 20px;
+        z-index: 100;
     }
 
     .navigation {
-        gap: clamp(3px, 1vw, 16px);
+        gap: clamp(2px, 0.5vw, 10px);
         margin-bottom: 35px;
+        padding-right: 10px;
     }
 
     .nav-link {
-        font-size: clamp(10px, 2.5vw, 18px);
+        font-size: clamp(10px, 1.2vw, 16px);
     }
 
     .project-item {

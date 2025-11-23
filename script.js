@@ -518,6 +518,9 @@ navLinks.forEach(link => {
         } else if (section === 'gallery') {
             // Show gallery view with animation in background
             showGallery();
+        } else if (section === 'workshops') {
+            // Show workshops view
+            showWorkshops();
         } else if (section === 'about') {
             // You can implement an about page here
             showAboutPage();

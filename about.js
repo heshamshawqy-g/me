@@ -78,7 +78,23 @@ function renderAboutPage(data) {
                 </div>
             </section>
 
-            <!-- Part 5: Social Links -->
+            <!-- Part 5: Conferences and Workshops -->
+            <section class="about-section">
+                <h2 class="about-section-title">Conferences & Workshops</h2>
+                <div class="about-conferences">
+                    ${data.conferences.map(conf => `
+                        <div class="conference-item">
+                            <div class="conference-year">${conf.year}</div>
+                            <div class="conference-content">
+                                <h3 class="conference-title">${conf.title}</h3>
+                                <p class="conference-description">${conf.description}</p>
+                            </div>
+                        </div>
+                    `).join('')}
+                </div>
+            </section>
+
+            <!-- Part 6: Social Links -->
             <section class="about-section">
                 <h2 class="about-section-title">Connect</h2>
                 <div class="about-social">
@@ -325,6 +341,58 @@ function injectAboutStyles() {
             letter-spacing: 0.05em;
         }
 
+        /* Conferences and Workshops */
+        .about-conferences {
+            display: flex;
+            flex-direction: column;
+            gap: 32px;
+        }
+
+        .conference-item {
+            display: grid;
+            grid-template-columns: 80px 1fr;
+            gap: 24px;
+            padding: 24px;
+            background: #ffffff;
+            border: 1px solid #e0e0e0;
+            border-radius: 12px;
+            transition: all 0.3s ease;
+        }
+
+        .conference-item:hover {
+            border-color: #111111;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+            transform: translateX(4px);
+        }
+
+        .conference-year {
+            font-size: 18px;
+            font-weight: 700;
+            color: #111111;
+            padding-top: 2px;
+        }
+
+        .conference-content {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .conference-title {
+            font-size: 20px;
+            font-weight: 600;
+            color: #111111;
+            margin: 0;
+            line-height: 1.3;
+        }
+
+        .conference-description {
+            font-size: 15px;
+            line-height: 1.7;
+            color: #555555;
+            margin: 0;
+        }
+
         /* Social Links */
         .about-social {
             display: flex;
@@ -419,6 +487,23 @@ function injectAboutStyles() {
 
             .timeline-role {
                 font-size: 20px;
+            }
+
+            .conference-item {
+                grid-template-columns: 1fr;
+                gap: 12px;
+            }
+
+            .conference-year {
+                font-size: 16px;
+            }
+
+            .conference-title {
+                font-size: 18px;
+            }
+
+            .conference-description {
+                font-size: 14px;
             }
         }
     `;

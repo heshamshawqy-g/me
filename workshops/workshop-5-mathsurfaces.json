@@ -1,0 +1,47 @@
+{
+    "id": 5,
+    "title": "Mathematical Surfaces Explorations",
+    "year": 2025,
+    "description": "Parametric design and mathematical surfaces parametrization",
+    "timestamp": "",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763928645/cover_q9l8cu.jpg",
+    "content": {
+        "paragraphs": [
+            "",
+            "Exploring mathematical surfaces through parametric design using polar coordinates, parametric equations, and references from MathWorld and Pasta by Design to generate complex, expressive geometries."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763928645/cover_q9l8cu.jpg",
+                "caption": "Experiment overview",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763926666/castallane_oi8ulq.mp4",
+                "caption": "Castallane point cloud morphology",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763926665/casarecce_02_zyjef9.mp4",
+                "caption": "Casarecce point cloud morphology",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763926664/Gigli-03_cv2ei7.mp4",
+                "caption": "Gigli point cloud morphology",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763926658/arknova_03_ctufrt.mp4",
+                "caption": "Arknova point cloud morphology",
+                "position": "after-paragraph-1"
+            }
+        ]
+    }
+}
+

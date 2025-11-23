@@ -9,7 +9,7 @@
     function disableRightClick(e) {
         if (e.target.tagName === 'IMG' || e.target.tagName === 'VIDEO') {
             e.preventDefault();
-            showProtectionMessage();
+            // showProtectionMessage();
             return false;
         }
     }

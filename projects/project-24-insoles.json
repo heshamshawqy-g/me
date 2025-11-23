@@ -1,0 +1,55 @@
+{
+    "id": 24,
+    "title": "Parametric Insoles",
+    "year": 2021,
+    "categories": ["Machine Learning", "Web Applications"],
+    "description": "Point cloud analysis and automation for parametric insoles",
+    "timestamp": "June '21",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763891402/02_cehkty.mp4",
+    "content": {
+        "paragraphs": [
+            "",
+            "Parametric Insoles was a collaborative project with a Canadian orthotic insole company aimed at automating the creation of ergonomic, customized insoles. The goal was to streamline the process of transforming patient foot scans into tailored designs that improve comfort and support. By integrating computational design techniques, the project sought to bridge the gap between medical precision and advanced digital fabrication.",
+            "The workflow began with processing over 100,000 point clouds captured from patient foot scans. Using computational design methods, these dense datasets were analyzed to extract essential geometric features such as the mesh, reference planes, skeletal structure, and key measurements. This data-driven approach ensured that every insole design was informed by accurate anatomical details, enabling a high level of customization.",
+            "The insights derived from the point cloud analysis directly shaped the insole geometry, resulting in designs that were both ergonomic and efficient to produce. This automation not only reduced manual intervention but also improved consistency and scalability for the company. The project demonstrated how computational design can transform traditional orthotic workflows into advanced, parametric systems that deliver precision and personalization at scale."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891401/00_s7qy2z.jpg",
+                "caption": "Analysis space",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763891403/01_tufpnb.mp4",
+                "caption": "A sample of the point cloud data",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763891402/02_cehkty.mp4",
+                "caption": "Point cloud analysis",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763891403/03_cjcsl7.mp4",
+                "caption": "Point cloud orientation",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1763891401/04_jds5id.mp4",
+                "caption": "Mesh dimensions generation, csv data export",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891404/insole_pncarl.jpg",
+                "caption": "Insole design sample",
+                "position": "end"
+            }
+        ]
+    }
+}

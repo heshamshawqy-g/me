@@ -1,0 +1,79 @@
+{
+    "id": 2,
+    "title": "Digital Futures - Beyond Static",
+    "year": 2023,
+    "description": "Beyond Static – Exploring Machine Learning for Adaptive Geometries in Expandable Structures @Digital Futures with Esther Rubio",
+    "timestamp": "July '23",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926630/00_hcc6m9.jpg",
+    "content": {
+        "paragraphs": [
+            "",
+            "At the Digital Futures 2023 Conference, I co-led a workshop titled “Beyond Static – Exploring Machine Learning for Adaptive Geometries in Expandable Structures” with Esther Rubio. The workshop introduced participants to the intersection of modular design, dynamic geometries, and machine learning, focusing on how computational tools can create responsive and reconfigurable architectural systems. Digital Futures is a global platform for free architectural education, making this an opportunity to share advanced design methodologies with an international audience.",
+            "The workshop explored adaptive geometries and modular networks through a combination of theory and hands-on exercises. Participants learned how to define base modules, study their behavior under forces, and aggregate them into global systems. Using Rhinoceros3D and Grasshopper, they developed expandable structures and iterative patterns through recursive systems. The curriculum emphasized modularity for scalability and flexibility, while introducing machine learning techniques such as clustering and Self-Organizing Maps to optimize generative design workflows.",
+            "Over three days, attendees progressed from scripting modular components to visualizing complex design spaces and applying AI-driven optimization. They learned to translate geometry into numerical datasets, train models, and predict structural behaviors, gaining insight into how machine learning can enhance architectural adaptability. The workshop concluded with participants presenting experimental structures that demonstrated the potential of combining modular design principles with computational intelligence for future architectural applications."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926630/00_hcc6m9.jpg",
+                "caption": "Workshop overview or key visual",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926599/Picture13_bqnyct.png",
+                "caption": "Workshop process or methodology",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926597/NT_01_wled1z.jpg",
+                "caption": "Workshop process or methodology",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763924774/Picture4_fkdhcd.png",
+                "caption": "Workshop process or methodology",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926602/NT_15_unyqbk.jpg",
+                "caption": "Workshop process or methodology",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926599/Picture3_igdync.png",
+                "caption": "Workshop process or methodology",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763924773/Picture11_ywcfuo.png",
+                "caption": "Workshop process or methodology",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763924772/Picture12_kk5d6v.png",
+                "caption": "Workshop process or methodology",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763924779/Picture2_y91rko.jpg",
+                "caption": "Workshop process or methodology",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763926588/Picture14_zwxrml.png",
+                "caption": "Workshop results or outcomes",
+                "position": "end"
+            }
+        ]
+    }
+}
+

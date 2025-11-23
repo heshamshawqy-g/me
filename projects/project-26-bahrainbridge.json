@@ -1,0 +1,67 @@
+{
+    "id": 26,
+    "title": "BAH Bridge",
+    "year": 2022,
+    "categories": ["Form Finding", "Tessellation Systems"],
+    "description": "Pedestrian mobility components, a gateway to Bahrain",
+    "timestamp": "June '22",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891175/Generated_Image_November_21_2025_-_8_40PM_msamyv.jpg",
+    "content": {
+        "paragraphs": [
+            "",
+            "This project focused on designing pedestrian bridges that act as gateways to one of Bahrain’s main roads, using computational design to develop a parametric model optimized for mobility and comfort. The design process involved configuring slopes and walkable geometries to ensure accessibility while maintaining an elegant architectural expression that complements the surrounding urban context.",
+            "A central element of the concept was a lattice structure inspired by traditional Bahraini weaving techniques. Through a form-finding process, these cultural references were translated into a modern structural system, creating a wooden framework that combined strength, lightness, and visual identity. This approach celebrated local craftsmanship while leveraging advanced parametric tools to achieve a design that is both functional and culturally rooted.",
+            "To enhance the experience for pedestrians, the design incorporated observatory towers as iconic landmarks and resting points. These towers provided panoramic views of the surrounding area and upcoming developments, transforming the bridge into more than a crossing. It became a destination that connects functionality, cultural heritage, and urban vision in a single cohesive design."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891175/Generated_Image_November_21_2025_-_8_40PM_msamyv.jpg",
+                "caption": "Aerial view showing the pedestrian bridge in context",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891175/Generated_Image_November_21_2025_-_9_05PM_d2hssb.jpg",
+                "caption": "Sectional study of the bridge mobility",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891176/OPT01_C_wsotcw.jpg",
+                "caption": "The bridge lattice structure and passive shading system",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891176/OPT01_B_churaq.jpg",
+                "caption": "Aerial study of the bridge components",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891175/OPT01_A_jl9xot.jpg",
+                "caption": "Layout study of the bridge route",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891176/OPT02_A_hhamzz.jpg",
+                "caption": "Layout study of the observatory towers",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891175/Generated_Image_November_21_2025_-_9_13PM_rqwl86.jpg",
+                "caption": "Elevation view of the observatory tower structure",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1763891175/Generated_Image_November_21_2025_-_9_11PM_x59jgn.jpg",
+                "caption": "Elevation study and the form layers",
+                "position": "end"
+            }
+        ]
+    }
+}
