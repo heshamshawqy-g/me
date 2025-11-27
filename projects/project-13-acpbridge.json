@@ -28,6 +28,12 @@
             },
             {
                 "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1764200760/ViewCapture20251126_234414_plxzwn.png",
+                "caption": "likelihood of the panels",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762039979/image108_f1fokf.jpg",
                 "caption": "Diagram illustrating the panelization outcome with dimensioning annotations",
                 "position": "after-paragraph-1"
