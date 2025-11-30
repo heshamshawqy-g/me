@@ -26,6 +26,12 @@
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
+                       {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1764506084/20220730_145832_jte0je.jpg",
+                "caption": "CNC milling process",
+                "position": "after-paragraph-1"
+            },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762032102/Patterns_vsa2v0.png",

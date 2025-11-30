@@ -1,10 +1,10 @@
 {
     "id": 12,
     "title": "Thukher Club",
-    "year": 2020,
+    "year": 2022,
     "categories": ["Design Development", "Tessellation Systems"],
     "description": "The Thukher project transforms complex skin into efficient, standardized panels @Archi-Heaven, Dubai",
-    "timestamp": "July '21",
+    "timestamp": "July '22",
     "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_800,f_auto,q_auto/v1762036691/image96_kflzuf.jpg",
     "content": {
         "paragraphs": [
@@ -23,7 +23,7 @@
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762036191/image_24_l2t1fy.png",
-                "caption": "Street‑level illustration depicting the project within its urban context",
+                "caption": "Street‑level illustration depicting the project within its urban context - AI Enhanced",
                 "position": "after-paragraph-1"
             },
             {
@@ -59,7 +59,7 @@
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762036193/image_26_c7uzm6.png",
-                "caption": "Aerial view illustration",
+                "caption": "Aerial view illustration - AI Enhanced",
                 "position": "end"
             }
         ]

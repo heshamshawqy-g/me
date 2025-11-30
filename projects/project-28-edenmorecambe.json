@@ -1,0 +1,77 @@
+{
+    "id": 28,
+    "title": "Eden Project Morecambe",
+    "year": 2025,
+    "categories": [
+        "Design Development",
+        "Form Finding"
+    ],
+    "description": "Stage 3 design development of Eden Morecambe @Grimshaw",
+    "timestamp": "January '25",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1764500688/math-function_aggvul.png",
+    "content": {
+        "paragraphs": [
+            "",
+            "This is a computational design development for the original architectural proposal by the competition architectural team at Grimshaw.The design exploration used a mathematically driven approach derived from a Bivalve Seashell polar parametric surface. The form was constructed through a polar coordinate system where the radius was defined as a function of angle, with controlled frequency modulation to establish the primary oscillations that shape the shell profile.The generative behaviour relied on smooth curvature transitions created by radial growth functions, angular frequency terms, and vertical scaling rules. These parameters established a stable mathematical grammar that governed symmetry, opening angle, and overall massing.",
+            "The large double-curved envelopes required a clear rationalisation approach. The ETFE skin was subdivided through curvature analysis and clustering to establish zones with similar geometric conditions. This enabled volumetric ETFE cushions to remain efficient in size, repeatable in curvature tolerance and stable under wind and pressure loads.",
+            "The structural system, a hybrid gridshell with rib-like reinforcement, was coordinated parametrically to align with panel seams, load paths and the spatial layout of the interior environments. Iterative analysis tuned the geometry to meet BREEAM daylighting objectives, optimise outward views and mitigate solar glare. This integration ensured that the expressive natural form operated within a well-coordinated and buildable structural and environmental framework.",
+            "A full-scale VR environment supported design evaluation by allowing users to experience the biomes, understand the ETFE volumes and review the structural system in detail. Daylight conditions, spatial sequences and visitor flows could be assessed interactively, providing designers, engineers and stakeholders with a unified platform for testing the architectural experience. This immersive workflow allowed design intent and user objectives to be validated throughout development."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1764500688/math-function_aggvul.png",
+                "caption": "Mathematics-driven shell form generated using polar parametric surfaces",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1764500688/clustering_aqjyif.png",
+                "caption": "Shell clustering and layout organization",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1764500689/V-01_u6pa3f.mp4",
+                "caption": "Gridshell tessellation system showing parametric variations for curvature, panel size, and structural logic",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1764500688/V-02_xzdevl.mp4",
+                "caption": "Study diagram analyzing strip continuity",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1764500688/V-03_gqzecl.mp4",
+                "caption": "Segmentation study of ETFE panels for structural efficiency and volumetric control",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "gif",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1764502240/structure_wwe0eh.gif",
+                "caption": "Interface between ETFE panels and the gridshell structure, demonstrating alignment and connection logic",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/v1764500689/V-05_hhejsq.mp4",
+                "caption": "Environmental analysis for BREEAM compliance, evaluating daylighting, views, and solar glare control",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1764500690/Generated_Image_November_30_2025_-_10_41AM_pzhkqn.jpg",
+                "caption": "Virtual reality visualization of the user experience",
+                "position": "after-paragraph-4"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1764500690/ViewCapture20251128_214219_ujpjo1.png",
+                "caption": "Updated 3D model snapshot showing the optimized shell layout after reduction in the number of individual shells",
+                "position": "end"
+            }
+        ]
+    }
+}

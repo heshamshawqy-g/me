@@ -1,7 +1,7 @@
 {
     "id": 25,
     "title": "MED Centre",
-    "year": 2024,
+    "year": 2022,
     "categories": [
         "Tessellation Systems"
     ],
@@ -31,13 +31,13 @@
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763890921/Generated_Image_November_23_2025_-_9_27AM_1_cg0ubx.jpg",
-                "caption": "Elevation view",
+                "caption": "Elevation view - AI Enhanced",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1763890921/Generated_Image_November_23_2025_-_9_29AM_haygbj.jpg",
-                "caption": "Perspective view",
+                "caption": "Perspective view - AI Enhanced",
                 "position": "end"
             }
         ]
