@@ -140,10 +140,10 @@ def main():
     print("=" * 60)
     
     # Check if projects directory exists
-    projects_dir = Path('workshops')
+    projects_dir = Path('projects')
     
     # Get all project JSON files
-    json_files = sorted(projects_dir.glob('workshop-*.json'))
+    json_files = sorted(projects_dir.glob('project-*.json'))
     
     if not json_files:
         print("❌ No project JSON files found!")

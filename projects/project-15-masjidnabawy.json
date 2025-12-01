@@ -2,7 +2,9 @@
     "id": 15,
     "title": "Masjid Al-Nabawi",
     "year": 2019,
-    "categories": ["Design Development"],
+    "categories": [
+        "Design Development"
+    ],
     "description": "Parametric Documentation of Al‑Masjid Al‑Nabawi-Tracing Architectural Evolution Through Advanced Geometry Modeling @UDAAR",
     "timestamp": "August '19",
     "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762043531/14_-%D9%82%D8%B7%D8%A7%D8%B9_%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%8A_%D9%84%D9%84%D9%85%D8%B3%D8%AC%D8%AF_tgfjls.jpg",
@@ -26,9 +28,9 @@
                 "caption": "3D sectional axonometric view of the mosque highlighting the courtyard and dome structure",
                 "position": "after-paragraph-0"
             },
-                        {
+            {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1764506505/book_cer3be.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1764506505/book_cer3be.jpg",
                 "caption": "Encyclopedia of the Architecture of Al-Nabawi Mosque – First Edition",
                 "position": "after-paragraph-0"
             },

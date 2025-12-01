@@ -2,7 +2,10 @@
     "id": 13,
     "title": "ACP Bridge",
     "year": 2022,
-    "categories": ["Design Development", "Tessellation Systems"],
+    "categories": [
+        "Design Development",
+        "Tessellation Systems"
+    ],
     "description": "Geometry Rationalization and Optimization for a multimodal bridge @Archi-Heaven, Saudi Arabia",
     "timestamp": "Feb '22",
     "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_800,f_auto,q_auto/v1762039990/image_29_wut5u1.png",
@@ -28,7 +31,7 @@
             },
             {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1764200760/ViewCapture20251126_234414_plxzwn.png",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1764200760/ViewCapture20251126_234414_plxzwn.png",
                 "caption": "likelihood of the panels",
                 "position": "after-paragraph-1"
             },

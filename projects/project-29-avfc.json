@@ -1,0 +1,101 @@
+{
+    "id": 29,
+    "title": "STAD-X Project",
+    "year": 2024,
+    "categories": [
+        "Design Development",
+        "Tessellation Systems"
+    ],
+    "description": "Stadium Bowl and Facade Refurbishment @ Grimshaw",
+    "timestamp": "July '24",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_800,f_auto,q_auto/v1764549075/layering_on9igr.mp4",
+    "content": {
+        "paragraphs": [
+            "",
+            "STAD-X is a confidential stadium refurbishment project in London, focused on upgrading an existing venue through bowl geometry optimisation and a complete renewal of the external envelope. The design effort concentrates on improving sightlines, refining the stepping logic of the seating tiers, and enhancing the architectural performance of the façade while preserving the structural integrity of the original stadium.",
+            "The bowl redevelopment is driven by a parametric riser-generation system that aligns new seating tiers with performance standards derived from FIFA and Green Guide criteria. A pseudo-logic process interpolates between the inherited bowl sections and the required C-values, allowing the geometry to adapt iteratively until optimal sightlines and compliant riser configurations are achieved.",
+            "The existing exterior is re-envisioned through a new parametric envelope that forms the basis of the façade redesign. This surface is tessellated using weaving-line logic, generating panels that respond dynamically to visual experience. Panel morphology is influenced by viewpoints both from the interior looking outward and from the surrounding urban context looking into the bowl, creating a responsive and context-aware façade system.",
+            "A real-time seat-view analysis tool supports decision-making throughout the design process. The system evaluates sightline clashes, detects obstructions, and provides immediate visual feedback for seat placement across the bowl tiers. This enables precise seat positioning and ensures that the final configuration maximises visibility and viewing comfort across all tiers."
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1764549073/251110_facade_lean_tests_20251113_162940_2_output_tskfwg.png",
+                "caption": "AI-enhanced human-eye rendering of the stadium envelope",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1764549075/layering_on9igr.mp4",
+                "caption": "Envelope tesselation system weaving logic",
+                "position": "after-paragraph-0"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1764549074/ViewCapture20251130_222432_c3xqv0.png",
+                "caption": "Stadium layout and surrounding heat points",
+                "position": "after-paragraph-1"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1764550248/ViewCapture20251130_212511_ooi6ad.png",
+                "caption": "Pseudocode of the bowl parametric riser-generation",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1764549076/V-01-Bowl_i8u7fu.mp4",
+                "caption": "Study of the bowl parametric riser-generation",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1764549072/ViewCapture20251130_214051_hhvypd.png",
+                "caption": "Axonemetric view of the bowl initial massing ",
+                "position": "after-paragraph-2"
+            },
+            {
+                "type": "image",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1764549073/ViewCapture20251130_224423_elemef.png",
+                "caption": "Proposed envelope interfacing",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1764549072/surface-form_mvmmcx.mp4",
+                "caption": "Form finding diagram of the envelope surface",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1764549076/pattern-morph_xfl6mq.mp4",
+                "caption": "Tessellation system adapting dynamically to surrounding viewpoints",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1764549076/pattern-morph-2_cyyl4r.mp4",
+                "caption": "Tessellation system adapting dynamically to surrounding viewpoints",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1764549076/patterns-variations_qub8a0.mp4",
+                "caption": "Tessellation system iterations",
+                "position": "after-paragraph-3"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1764549072/seat_analysis_tpelsz.mp4",
+                "caption": "3D proximity-driven C-value seat analysis process",
+                "position": "after-paragraph-4"
+            },
+            {
+                "type": "video",
+                "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1764549075/clash-detection_fznmjp.mp4",
+                "caption": "Seat-view analysis and clash detection system",
+                "position": "end"
+            }
+        ]
+    }
+}

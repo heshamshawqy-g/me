@@ -2,7 +2,10 @@
     "id": 10,
     "title": "RA Walls",
     "year": 2022,
-    "categories": ["Design Development", "Tessellation Systems"],
+    "categories": [
+        "Design Development",
+        "Tessellation Systems"
+    ],
     "description": "Parametric lighting installation that merges geometrical art, CNC fabrication, and artificial illumination",
     "timestamp": "March '22",
     "previewImage": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_800,f_auto,q_auto/v1762032684/V-03_nmwse9.mp4",
@@ -26,9 +29,9 @@
                 "caption": "Optional caption",
                 "position": "after-paragraph-1"
             },
-                       {
+            {
                 "type": "image",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1764506084/20220730_145832_jte0je.jpg",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1764506084/20220730_145832_jte0je.jpg",
                 "caption": "CNC milling process",
                 "position": "after-paragraph-1"
             },
